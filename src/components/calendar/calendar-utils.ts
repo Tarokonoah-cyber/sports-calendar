@@ -37,12 +37,35 @@ export function getEventsForDate(events: SportsEvent[], date: Date) {
   return events.filter((event) => isSameDay(getEventDate(event), date));
 }
 
+export function sortEventsByFavorites(
+  events: SportsEvent[],
+  favoriteTeams: string[],
+  favoriteLeagueIds: string[] = [],
+  favoriteEventIds: string[] = [],
+) {
+  const normalizedFavoriteTeams = favoriteTeams.map((team) => team.trim().toLowerCase()).filter(Boolean);
+
+  return [...events].sort((a, b) => {
+    const score = (event: SportsEvent) => {
+      const teamScore = event.participants.some((participant) =>
+        normalizedFavoriteTeams.some((team) => participant.toLowerCase().includes(team) || team.includes(participant.toLowerCase())),
+      )
+        ? 4
+        : 0;
+      const leagueScore = favoriteLeagueIds.includes(event.leagueId) ? 2 : 0;
+      const eventScore = favoriteEventIds.includes(event.id) ? 1 : 0;
+      return teamScore + leagueScore + eventScore;
+    };
+
+    const diff = score(b) - score(a);
+    if (diff !== 0) return diff;
+    return a.startTime.localeCompare(b.startTime);
+  });
+}
+
 export function matchesSearch(event: SportsEvent, query: string) {
   const normalizedQuery = query.trim().toLowerCase();
-
-  if (!normalizedQuery) {
-    return true;
-  }
+  if (!normalizedQuery) return true;
 
   return [
     event.title,
