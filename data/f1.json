@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f1-2026-06-14-canadian-gp",
+    "leagueId": "f1",
+    "leagueName": "Formula 1 一級方程式",
+    "sport": "motorsport",
+    "title": "加拿大大獎賽",
+    "matchup": "加拿大大獎賽",
+    "startTime": "2026-06-14T14:00:00+08:00",
+    "location": "Circuit Gilles Villeneuve",
+    "city": "加拿大蒙特婁",
+    "officialUrl": "https://www.formula1.com/en/racing",
+    "participants": ["一級方程式"],
+    "tags": ["F1", "一級方程式", "加拿大大獎賽", "賽車"]
+  },
+  {
+    "id": "f1-2026-06-28-austrian-gp",
+    "leagueId": "f1",
+    "leagueName": "Formula 1 一級方程式",
+    "sport": "motorsport",
+    "title": "奧地利大獎賽",
+    "matchup": "奧地利大獎賽",
+    "startTime": "2026-06-28T15:00:00+08:00",
+    "location": "Red Bull Ring",
+    "city": "奧地利施皮爾貝格",
+    "officialUrl": "https://www.formula1.com/en/racing",
+    "participants": ["一級方程式"],
+    "tags": ["F1", "一級方程式", "奧地利大獎賽", "賽車"]
+  }
+]

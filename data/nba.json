@@ -1,0 +1,58 @@
+[
+  {
+    "id": "nba-finals-2026-game-4",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "sport": "basketball",
+    "title": "NBA 總冠軍賽 G4：馬刺 vs 尼克",
+    "matchup": "馬刺 vs 尼克",
+    "startTime": "2026-06-11T07:30:00+08:00",
+    "location": "Madison Square Garden",
+    "city": "美國紐約",
+    "officialUrl": "https://www.nba.com/schedule",
+    "participants": ["聖安東尼奧馬刺", "紐約尼克"],
+    "tags": ["NBA", "總冠軍賽", "Finals", "馬刺", "尼克", "GMT+8"]
+  },
+  {
+    "id": "nba-finals-2026-game-5",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "sport": "basketball",
+    "title": "NBA 總冠軍賽 G5：尼克 vs 馬刺",
+    "matchup": "尼克 vs 馬刺",
+    "startTime": "2026-06-14T08:30:00+08:00",
+    "location": "Frost Bank Center",
+    "city": "美國聖安東尼奧",
+    "officialUrl": "https://www.nba.com/schedule",
+    "participants": ["紐約尼克", "聖安東尼奧馬刺"],
+    "tags": ["NBA", "總冠軍賽", "Finals", "尼克", "馬刺", "GMT+8", "如有需要"]
+  },
+  {
+    "id": "nba-finals-2026-game-6",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "sport": "basketball",
+    "title": "NBA 總冠軍賽 G6：馬刺 vs 尼克",
+    "matchup": "馬刺 vs 尼克",
+    "startTime": "2026-06-17T08:30:00+08:00",
+    "location": "Madison Square Garden",
+    "city": "美國紐約",
+    "officialUrl": "https://www.nba.com/schedule",
+    "participants": ["聖安東尼奧馬刺", "紐約尼克"],
+    "tags": ["NBA", "總冠軍賽", "Finals", "馬刺", "尼克", "GMT+8", "如有需要"]
+  },
+  {
+    "id": "nba-finals-2026-game-7",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "sport": "basketball",
+    "title": "NBA 總冠軍賽 G7：尼克 vs 馬刺",
+    "matchup": "尼克 vs 馬刺",
+    "startTime": "2026-06-20T08:30:00+08:00",
+    "location": "Frost Bank Center",
+    "city": "美國聖安東尼奧",
+    "officialUrl": "https://www.nba.com/schedule",
+    "participants": ["紐約尼克", "聖安東尼奧馬刺"],
+    "tags": ["NBA", "總冠軍賽", "Finals", "尼克", "馬刺", "GMT+8", "如有需要"]
+  }
+]
