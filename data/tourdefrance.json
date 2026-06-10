@@ -1,0 +1,669 @@
+[
+  {
+    "id": "tourdefrance-2026-stage-01",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 1：團隊計時",
+    "matchup": "Barcelone → Barcelone",
+    "startTime": "2026-07-04T12:00:00+02:00",
+    "endTime": "2026-07-04T18:00:00+02:00",
+    "location": "Barcelone → Barcelone",
+    "city": "Barcelone",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Barcelone",
+      "Barcelone",
+      "團隊計時"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "1",
+      "Team Time-Trial",
+      "團隊計時",
+      "19.6 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-02",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 2：丘陵站",
+    "matchup": "Tarragone → Barcelone",
+    "startTime": "2026-07-05T12:00:00+02:00",
+    "endTime": "2026-07-05T18:00:00+02:00",
+    "location": "Tarragone → Barcelone",
+    "city": "Barcelone",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Tarragone",
+      "Barcelone",
+      "丘陵站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "2",
+      "Hilly",
+      "丘陵站",
+      "168.5 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-03",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 3：高山站",
+    "matchup": "Granollers → Les Angles",
+    "startTime": "2026-07-06T12:00:00+02:00",
+    "endTime": "2026-07-06T18:00:00+02:00",
+    "location": "Granollers → Les Angles",
+    "city": "Les Angles",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Granollers",
+      "Les Angles",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "3",
+      "Mountain",
+      "高山站",
+      "195.9 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-04",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 4：丘陵站",
+    "matchup": "Carcassonne → Foix",
+    "startTime": "2026-07-07T12:00:00+02:00",
+    "endTime": "2026-07-07T18:00:00+02:00",
+    "location": "Carcassonne → Foix",
+    "city": "Foix",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Carcassonne",
+      "Foix",
+      "丘陵站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "4",
+      "Hilly",
+      "丘陵站",
+      "181.9 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-05",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 5：平地站",
+    "matchup": "Lannemezan → Pau",
+    "startTime": "2026-07-08T12:00:00+02:00",
+    "endTime": "2026-07-08T18:00:00+02:00",
+    "location": "Lannemezan → Pau",
+    "city": "Pau",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Lannemezan",
+      "Pau",
+      "平地站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "5",
+      "Flat",
+      "平地站",
+      "158.3 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-06",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 6：高山站",
+    "matchup": "Pau → Gavarnie-Gedre",
+    "startTime": "2026-07-09T12:00:00+02:00",
+    "endTime": "2026-07-09T18:00:00+02:00",
+    "location": "Pau → Gavarnie-Gedre",
+    "city": "Gavarnie-Gedre",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Pau",
+      "Gavarnie-Gedre",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "6",
+      "Mountain",
+      "高山站",
+      "186.2 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-07",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 7：平地站",
+    "matchup": "Hagetmau → Bordeaux",
+    "startTime": "2026-07-10T12:00:00+02:00",
+    "endTime": "2026-07-10T18:00:00+02:00",
+    "location": "Hagetmau → Bordeaux",
+    "city": "Bordeaux",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Hagetmau",
+      "Bordeaux",
+      "平地站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "7",
+      "Flat",
+      "平地站",
+      "175.1 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-08",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 8：平地站",
+    "matchup": "Perigueux → Bergerac",
+    "startTime": "2026-07-11T12:00:00+02:00",
+    "endTime": "2026-07-11T18:00:00+02:00",
+    "location": "Perigueux → Bergerac",
+    "city": "Bergerac",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Perigueux",
+      "Bergerac",
+      "平地站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "8",
+      "Flat",
+      "平地站",
+      "180.4 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-09",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 9：丘陵站",
+    "matchup": "Malemort → Ussel",
+    "startTime": "2026-07-12T12:00:00+02:00",
+    "endTime": "2026-07-12T18:00:00+02:00",
+    "location": "Malemort → Ussel",
+    "city": "Ussel",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Malemort",
+      "Ussel",
+      "丘陵站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "9",
+      "Hilly",
+      "丘陵站",
+      "185.5 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-rest-1",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 休息日1",
+    "matchup": "第一休息日：Cantal",
+    "startTime": "2026-07-13T12:00:00+02:00",
+    "endTime": "2026-07-13T18:00:00+02:00",
+    "location": "Cantal",
+    "city": "Cantal",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Cantal",
+      "Cantal",
+      "第一休息日"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "休息日1",
+      "Rest Day",
+      "第一休息日",
+      "-"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-10",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 10：高山站",
+    "matchup": "Aurillac → Le Lioran",
+    "startTime": "2026-07-14T12:00:00+02:00",
+    "endTime": "2026-07-14T18:00:00+02:00",
+    "location": "Aurillac → Le Lioran",
+    "city": "Le Lioran",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Aurillac",
+      "Le Lioran",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "10",
+      "Mountain",
+      "高山站",
+      "166.6 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-11",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 11：平地站",
+    "matchup": "Vichy → Nevers",
+    "startTime": "2026-07-15T12:00:00+02:00",
+    "endTime": "2026-07-15T18:00:00+02:00",
+    "location": "Vichy → Nevers",
+    "city": "Nevers",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Vichy",
+      "Nevers",
+      "平地站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "11",
+      "Flat",
+      "平地站",
+      "161.3 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-12",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 12：平地站",
+    "matchup": "Circuit Nevers Magny-Cours → Chalon-sur-Saone",
+    "startTime": "2026-07-16T12:00:00+02:00",
+    "endTime": "2026-07-16T18:00:00+02:00",
+    "location": "Circuit Nevers Magny-Cours → Chalon-sur-Saone",
+    "city": "Chalon-sur-Saone",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Circuit Nevers Magny-Cours",
+      "Chalon-sur-Saone",
+      "平地站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "12",
+      "Flat",
+      "平地站",
+      "179.1 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-13",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 13：丘陵站",
+    "matchup": "Dole → Belfort",
+    "startTime": "2026-07-17T12:00:00+02:00",
+    "endTime": "2026-07-17T18:00:00+02:00",
+    "location": "Dole → Belfort",
+    "city": "Belfort",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Dole",
+      "Belfort",
+      "丘陵站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "13",
+      "Hilly",
+      "丘陵站",
+      "205.8 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-14",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 14：高山站",
+    "matchup": "Mulhouse → Le Markstein Fellering",
+    "startTime": "2026-07-18T12:00:00+02:00",
+    "endTime": "2026-07-18T18:00:00+02:00",
+    "location": "Mulhouse → Le Markstein Fellering",
+    "city": "Le Markstein Fellering",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Mulhouse",
+      "Le Markstein Fellering",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "14",
+      "Mountain",
+      "高山站",
+      "155.3 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-15",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 15：高山站",
+    "matchup": "Champagnole → Plateau de Solaison",
+    "startTime": "2026-07-19T12:00:00+02:00",
+    "endTime": "2026-07-19T18:00:00+02:00",
+    "location": "Champagnole → Plateau de Solaison",
+    "city": "Plateau de Solaison",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Champagnole",
+      "Plateau de Solaison",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "15",
+      "Mountain",
+      "高山站",
+      "183.9 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-rest-2",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 休息日2",
+    "matchup": "第二休息日：Haute-savoie",
+    "startTime": "2026-07-20T12:00:00+02:00",
+    "endTime": "2026-07-20T18:00:00+02:00",
+    "location": "Haute-savoie",
+    "city": "Haute-savoie",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Haute-savoie",
+      "Haute-savoie",
+      "第二休息日"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "休息日2",
+      "Rest Day",
+      "第二休息日",
+      "-"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-16",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 16：個人計時",
+    "matchup": "Evian-les-Bains → Thonon-les-Bains",
+    "startTime": "2026-07-21T12:00:00+02:00",
+    "endTime": "2026-07-21T18:00:00+02:00",
+    "location": "Evian-les-Bains → Thonon-les-Bains",
+    "city": "Thonon-les-Bains",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Evian-les-Bains",
+      "Thonon-les-Bains",
+      "個人計時"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "16",
+      "Individual time-trial",
+      "個人計時",
+      "26.1 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-17",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 17：平地站",
+    "matchup": "Chambery → Voiron",
+    "startTime": "2026-07-22T12:00:00+02:00",
+    "endTime": "2026-07-22T18:00:00+02:00",
+    "location": "Chambery → Voiron",
+    "city": "Voiron",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Chambery",
+      "Voiron",
+      "平地站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "17",
+      "Flat",
+      "平地站",
+      "174.7 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-18",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 18：高山站",
+    "matchup": "Voiron → Orcieres-Merlette",
+    "startTime": "2026-07-23T12:00:00+02:00",
+    "endTime": "2026-07-23T18:00:00+02:00",
+    "location": "Voiron → Orcieres-Merlette",
+    "city": "Orcieres-Merlette",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Voiron",
+      "Orcieres-Merlette",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "18",
+      "Mountain",
+      "高山站",
+      "185.2 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-19",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 19：高山站",
+    "matchup": "Gap → Alpe d'Huez",
+    "startTime": "2026-07-24T12:00:00+02:00",
+    "endTime": "2026-07-24T18:00:00+02:00",
+    "location": "Gap → Alpe d'Huez",
+    "city": "Alpe d'Huez",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Gap",
+      "Alpe d'Huez",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "19",
+      "Mountain",
+      "高山站",
+      "127.9 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-20",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 20：高山站",
+    "matchup": "Le Bourg d'Oisans → Alpe d'Huez",
+    "startTime": "2026-07-25T12:00:00+02:00",
+    "endTime": "2026-07-25T18:00:00+02:00",
+    "location": "Le Bourg d'Oisans → Alpe d'Huez",
+    "city": "Alpe d'Huez",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Le Bourg d'Oisans",
+      "Alpe d'Huez",
+      "高山站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "20",
+      "Mountain",
+      "高山站",
+      "170.9 km"
+    ]
+  },
+  {
+    "id": "tourdefrance-2026-stage-21",
+    "leagueId": "tourdefrance",
+    "leagueName": "Tour de France 環法自行車賽",
+    "sport": "cycling",
+    "title": "環法自行車賽 Stage 21：平地站",
+    "matchup": "Thoiry → Paris Champs-Elysees",
+    "startTime": "2026-07-26T12:00:00+02:00",
+    "endTime": "2026-07-26T18:00:00+02:00",
+    "location": "Thoiry → Paris Champs-Elysees",
+    "city": "Paris Champs-Elysees",
+    "officialUrl": "https://www.letour.fr/en/overall-route",
+    "participants": [
+      "Tour de France",
+      "環法自行車賽",
+      "Thoiry",
+      "Paris Champs-Elysees",
+      "平地站"
+    ],
+    "tags": [
+      "Tour de France",
+      "環法",
+      "單車",
+      "21",
+      "Flat",
+      "平地站",
+      "133 km"
+    ]
+  }
+]

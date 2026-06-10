@@ -1,310 +1,1660 @@
 [
   {
-    "id": "cpbl-2026-06-10-brothers-lions",
+    "id": "cpbl-2026-134-統一-味全",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "中信兄弟 vs 統一獅",
-    "matchup": "中信兄弟 vs 統一獅",
-    "startTime": "2026-06-10T18:35:00+08:00",
-    "location": "臺南市立棒球場",
-    "city": "台灣臺南",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["中信兄弟", "統一7-ELEVEn獅"],
-    "tags": ["CPBL", "棒球", "台灣", "中信兄弟", "統一獅", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-10-monkeys-dragons",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "樂天桃猿 vs 味全龍",
-    "matchup": "樂天桃猿 vs 味全龍",
-    "startTime": "2026-06-10T18:35:00+08:00",
+    "title": "統一7-ELEVEn獅 vs 味全龍",
+    "matchup": "統一7-ELEVEn獅 vs 味全龍",
+    "startTime": "2026-05-31T16:05:00+08:00",
     "location": "天母棒球場",
     "city": "台灣台北",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["樂天桃猿", "味全龍"],
-    "tags": ["CPBL", "棒球", "台灣", "樂天桃猿", "味全龍", "GMT+8"]
+    "participants": [
+      "統一7-ELEVEn獅",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "味全龍",
+      "G134"
+    ]
   },
   {
-    "id": "cpbl-2026-06-11-guardians-hawks",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "富邦悍將 vs 台鋼雄鷹",
-    "matchup": "富邦悍將 vs 台鋼雄鷹",
-    "startTime": "2026-06-11T18:35:00+08:00",
-    "location": "澄清湖棒球場",
-    "city": "台灣高雄",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["富邦悍將", "台鋼雄鷹"],
-    "tags": ["CPBL", "棒球", "台灣", "富邦悍將", "台鋼雄鷹", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-12-lions-dragons",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "統一獅 vs 味全龍",
-    "matchup": "統一獅 vs 味全龍",
-    "startTime": "2026-06-12T18:35:00+08:00",
-    "location": "天母棒球場",
-    "city": "台灣台北",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["統一7-ELEVEn獅", "味全龍"],
-    "tags": ["CPBL", "棒球", "台灣", "統一獅", "味全龍", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-12-brothers-guardians",
+    "id": "cpbl-2026-135-中信-富邦",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
     "title": "中信兄弟 vs 富邦悍將",
     "matchup": "中信兄弟 vs 富邦悍將",
-    "startTime": "2026-06-12T18:35:00+08:00",
+    "startTime": "2026-05-31T16:05:00+08:00",
     "location": "新莊棒球場",
     "city": "台灣新北",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["中信兄弟", "富邦悍將"],
-    "tags": ["CPBL", "棒球", "台灣", "中信兄弟", "富邦悍將", "GMT+8"]
+    "participants": [
+      "中信兄弟",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "中信兄弟",
+      "富邦悍將",
+      "G135"
+    ]
   },
   {
-    "id": "cpbl-2026-06-13-hawks-monkeys",
+    "id": "cpbl-2026-136-台鋼-樂天",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
     "title": "台鋼雄鷹 vs 樂天桃猿",
     "matchup": "台鋼雄鷹 vs 樂天桃猿",
-    "startTime": "2026-06-13T17:05:00+08:00",
+    "startTime": "2026-05-31T17:05:00+08:00",
     "location": "樂天桃園棒球場",
     "city": "台灣桃園",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["台鋼雄鷹", "樂天桃猿"],
-    "tags": ["CPBL", "棒球", "台灣", "台鋼雄鷹", "樂天桃猿", "GMT+8"]
+    "participants": [
+      "台鋼雄鷹",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "台鋼雄鷹",
+      "樂天桃猿",
+      "G136"
+    ]
   },
   {
-    "id": "cpbl-2026-06-13-lions-brothers",
+    "id": "cpbl-2026-024-樂天-味全",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "統一獅 vs 中信兄弟",
-    "matchup": "統一獅 vs 中信兄弟",
-    "startTime": "2026-06-13T17:05:00+08:00",
-    "location": "洲際棒球場",
-    "city": "台灣台中",
+    "title": "補賽 樂天桃猿 vs 味全龍",
+    "matchup": "樂天桃猿 vs 味全龍",
+    "startTime": "2026-06-02T18:35:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["統一7-ELEVEn獅", "中信兄弟"],
-    "tags": ["CPBL", "棒球", "台灣", "統一獅", "中信兄弟", "GMT+8"]
+    "participants": [
+      "樂天桃猿",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "味全龍",
+      "G024",
+      "補賽"
+    ]
   },
   {
-    "id": "cpbl-2026-06-14-hawks-monkeys",
+    "id": "cpbl-2026-137-統一-中信",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "台鋼雄鷹 vs 樂天桃猿",
-    "matchup": "台鋼雄鷹 vs 樂天桃猿",
-    "startTime": "2026-06-14T17:05:00+08:00",
+    "title": "統一7-ELEVEn獅 vs 中信兄弟",
+    "matchup": "統一7-ELEVEn獅 vs 中信兄弟",
+    "startTime": "2026-06-02T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "中信兄弟",
+      "G137"
+    ]
+  },
+  {
+    "id": "cpbl-2026-138-統一-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 中信兄弟",
+    "matchup": "統一7-ELEVEn獅 vs 中信兄弟",
+    "startTime": "2026-06-03T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "中信兄弟",
+      "G138"
+    ]
+  },
+  {
+    "id": "cpbl-2026-139-味全-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "味全龍 vs 樂天桃猿",
+    "matchup": "味全龍 vs 樂天桃猿",
+    "startTime": "2026-06-03T18:35:00+08:00",
     "location": "樂天桃園棒球場",
     "city": "台灣桃園",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["台鋼雄鷹", "樂天桃猿"],
-    "tags": ["CPBL", "棒球", "台灣", "台鋼雄鷹", "樂天桃猿", "GMT+8"]
+    "participants": [
+      "味全龍",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "樂天桃猿",
+      "G139"
+    ]
   },
   {
-    "id": "cpbl-2026-06-14-dragons-guardians",
+    "id": "cpbl-2026-140-富邦-台鋼",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "味全龍 vs 富邦悍將",
-    "matchup": "味全龍 vs 富邦悍將",
-    "startTime": "2026-06-14T17:05:00+08:00",
-    "location": "新莊棒球場",
-    "city": "台灣新北",
+    "title": "富邦悍將 vs 台鋼雄鷹",
+    "matchup": "富邦悍將 vs 台鋼雄鷹",
+    "startTime": "2026-06-03T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["味全龍", "富邦悍將"],
-    "tags": ["CPBL", "棒球", "台灣", "味全龍", "富邦悍將", "GMT+8"]
+    "participants": [
+      "富邦悍將",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "台鋼雄鷹",
+      "G140"
+    ]
   },
   {
-    "id": "cpbl-2026-06-16-brothers-monkeys",
+    "id": "cpbl-2026-141-富邦-台鋼",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "中信兄弟 vs 樂天桃猿",
-    "matchup": "中信兄弟 vs 樂天桃猿",
-    "startTime": "2026-06-16T18:35:00+08:00",
-    "location": "樂天桃園棒球場",
-    "city": "台灣桃園",
+    "title": "富邦悍將 vs 台鋼雄鷹",
+    "matchup": "富邦悍將 vs 台鋼雄鷹",
+    "startTime": "2026-06-04T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["中信兄弟", "樂天桃猿"],
-    "tags": ["CPBL", "棒球", "台灣", "中信兄弟", "樂天桃猿", "GMT+8"]
+    "participants": [
+      "富邦悍將",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "台鋼雄鷹",
+      "G141"
+    ]
   },
   {
-    "id": "cpbl-2026-06-17-guardians-lions",
+    "id": "cpbl-2026-142-樂天-中信",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "富邦悍將 vs 統一獅",
-    "matchup": "富邦悍將 vs 統一獅",
-    "startTime": "2026-06-17T18:35:00+08:00",
+    "title": "樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-06-05T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G142"
+    ]
+  },
+  {
+    "id": "cpbl-2026-143-富邦-統一",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 統一7-ELEVEn獅",
+    "matchup": "富邦悍將 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-05T18:35:00+08:00",
     "location": "臺南市立棒球場",
     "city": "台灣臺南",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["富邦悍將", "統一7-ELEVEn獅"],
-    "tags": ["CPBL", "棒球", "台灣", "富邦悍將", "統一獅", "GMT+8"]
+    "participants": [
+      "富邦悍將",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "統一7-ELEVEn獅",
+      "G143"
+    ]
   },
   {
-    "id": "cpbl-2026-06-18-dragons-hawks",
+    "id": "cpbl-2026-144-味全-台鋼",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
     "title": "味全龍 vs 台鋼雄鷹",
     "matchup": "味全龍 vs 台鋼雄鷹",
-    "startTime": "2026-06-18T18:35:00+08:00",
+    "startTime": "2026-06-05T18:35:00+08:00",
     "location": "澄清湖棒球場",
     "city": "台灣高雄",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["味全龍", "台鋼雄鷹"],
-    "tags": ["CPBL", "棒球", "台灣", "味全龍", "台鋼雄鷹", "GMT+8"]
+    "participants": [
+      "味全龍",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "台鋼雄鷹",
+      "G144"
+    ]
   },
   {
-    "id": "cpbl-2026-06-19-monkeys-guardians",
+    "id": "cpbl-2026-145-富邦-統一",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "樂天桃猿 vs 富邦悍將",
-    "matchup": "樂天桃猿 vs 富邦悍將",
-    "startTime": "2026-06-19T18:35:00+08:00",
-    "location": "新莊棒球場",
-    "city": "台灣新北",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["樂天桃猿", "富邦悍將"],
-    "tags": ["CPBL", "棒球", "台灣", "樂天桃猿", "富邦悍將", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-20-brothers-hawks",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "中信兄弟 vs 台鋼雄鷹",
-    "matchup": "中信兄弟 vs 台鋼雄鷹",
-    "startTime": "2026-06-20T17:05:00+08:00",
-    "location": "澄清湖棒球場",
-    "city": "台灣高雄",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["中信兄弟", "台鋼雄鷹"],
-    "tags": ["CPBL", "棒球", "台灣", "中信兄弟", "台鋼雄鷹", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-21-lions-dragons",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "統一獅 vs 味全龍",
-    "matchup": "統一獅 vs 味全龍",
-    "startTime": "2026-06-21T17:05:00+08:00",
-    "location": "天母棒球場",
-    "city": "台灣台北",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["統一7-ELEVEn獅", "味全龍"],
-    "tags": ["CPBL", "棒球", "台灣", "統一獅", "味全龍", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-23-hawks-guardians",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "台鋼雄鷹 vs 富邦悍將",
-    "matchup": "台鋼雄鷹 vs 富邦悍將",
-    "startTime": "2026-06-23T18:35:00+08:00",
-    "location": "新莊棒球場",
-    "city": "台灣新北",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["台鋼雄鷹", "富邦悍將"],
-    "tags": ["CPBL", "棒球", "台灣", "台鋼雄鷹", "富邦悍將", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-24-monkeys-lions",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "樂天桃猿 vs 統一獅",
-    "matchup": "樂天桃猿 vs 統一獅",
-    "startTime": "2026-06-24T18:35:00+08:00",
+    "title": "富邦悍將 vs 統一7-ELEVEn獅",
+    "matchup": "富邦悍將 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-06T16:05:00+08:00",
     "location": "臺南市立棒球場",
     "city": "台灣臺南",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["樂天桃猿", "統一7-ELEVEn獅"],
-    "tags": ["CPBL", "棒球", "台灣", "樂天桃猿", "統一獅", "GMT+8"]
+    "participants": [
+      "富邦悍將",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "統一7-ELEVEn獅",
+      "G145"
+    ]
   },
   {
-    "id": "cpbl-2026-06-25-dragons-brothers",
+    "id": "cpbl-2026-146-味全-台鋼",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "味全龍 vs 中信兄弟",
-    "matchup": "味全龍 vs 中信兄弟",
-    "startTime": "2026-06-25T18:35:00+08:00",
-    "location": "洲際棒球場",
-    "city": "台灣台中",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["味全龍", "中信兄弟"],
-    "tags": ["CPBL", "棒球", "台灣", "味全龍", "中信兄弟", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-26-guardians-monkeys",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "富邦悍將 vs 樂天桃猿",
-    "matchup": "富邦悍將 vs 樂天桃猿",
-    "startTime": "2026-06-26T18:35:00+08:00",
-    "location": "樂天桃園棒球場",
-    "city": "台灣桃園",
-    "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["富邦悍將", "樂天桃猿"],
-    "tags": ["CPBL", "棒球", "台灣", "富邦悍將", "樂天桃猿", "GMT+8"]
-  },
-  {
-    "id": "cpbl-2026-06-27-lions-hawks",
-    "leagueId": "cpbl",
-    "leagueName": "CPBL",
-    "sport": "baseball",
-    "title": "統一獅 vs 台鋼雄鷹",
-    "matchup": "統一獅 vs 台鋼雄鷹",
-    "startTime": "2026-06-27T17:05:00+08:00",
+    "title": "味全龍 vs 台鋼雄鷹",
+    "matchup": "味全龍 vs 台鋼雄鷹",
+    "startTime": "2026-06-06T16:05:00+08:00",
     "location": "澄清湖棒球場",
     "city": "台灣高雄",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["統一7-ELEVEn獅", "台鋼雄鷹"],
-    "tags": ["CPBL", "棒球", "台灣", "統一獅", "台鋼雄鷹", "GMT+8"]
+    "participants": [
+      "味全龍",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "台鋼雄鷹",
+      "G146"
+    ]
   },
   {
-    "id": "cpbl-2026-06-28-brothers-dragons",
+    "id": "cpbl-2026-147-樂天-中信",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
-    "title": "中信兄弟 vs 味全龍",
-    "matchup": "中信兄弟 vs 味全龍",
-    "startTime": "2026-06-28T17:05:00+08:00",
-    "location": "天母棒球場",
-    "city": "台灣台北",
+    "title": "樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-06-06T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["中信兄弟", "味全龍"],
-    "tags": ["CPBL", "棒球", "台灣", "中信兄弟", "味全龍", "GMT+8"]
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G147"
+    ]
   },
   {
-    "id": "cpbl-2026-06-30-hawks-brothers",
+    "id": "cpbl-2026-148-富邦-統一",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 統一7-ELEVEn獅",
+    "matchup": "富邦悍將 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-07T16:05:00+08:00",
+    "location": "臺南市立棒球場",
+    "city": "台灣臺南",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "統一7-ELEVEn獅",
+      "G148"
+    ]
+  },
+  {
+    "id": "cpbl-2026-149-味全-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "味全龍 vs 台鋼雄鷹",
+    "matchup": "味全龍 vs 台鋼雄鷹",
+    "startTime": "2026-06-07T16:05:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "台鋼雄鷹",
+      "G149"
+    ]
+  },
+  {
+    "id": "cpbl-2026-150-樂天-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-06-07T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G150"
+    ]
+  },
+  {
+    "id": "cpbl-2026-151-味全-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "味全龍 vs 富邦悍將",
+    "matchup": "味全龍 vs 富邦悍將",
+    "startTime": "2026-06-09T18:35:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "富邦悍將",
+      "G151"
+    ]
+  },
+  {
+    "id": "cpbl-2026-152-台鋼-中信",
     "leagueId": "cpbl",
     "leagueName": "CPBL",
     "sport": "baseball",
     "title": "台鋼雄鷹 vs 中信兄弟",
     "matchup": "台鋼雄鷹 vs 中信兄弟",
-    "startTime": "2026-06-30T18:35:00+08:00",
-    "location": "洲際棒球場",
-    "city": "台灣台中",
+    "startTime": "2026-06-09T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
     "officialUrl": "https://www.cpbl.com.tw/schedule",
-    "participants": ["台鋼雄鷹", "中信兄弟"],
-    "tags": ["CPBL", "棒球", "台灣", "台鋼雄鷹", "中信兄弟", "GMT+8"]
+    "participants": [
+      "台鋼雄鷹",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "台鋼雄鷹",
+      "中信兄弟",
+      "G152"
+    ]
+  },
+  {
+    "id": "cpbl-2026-153-統一-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 樂天桃猿",
+    "matchup": "統一7-ELEVEn獅 vs 樂天桃猿",
+    "startTime": "2026-06-10T18:35:00+08:00",
+    "location": "樂天桃園棒球場",
+    "city": "台灣桃園",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "樂天桃猿",
+      "G153"
+    ]
+  },
+  {
+    "id": "cpbl-2026-154-中信-味全",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "中信兄弟 vs 味全龍",
+    "matchup": "中信兄弟 vs 味全龍",
+    "startTime": "2026-06-11T18:35:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "中信兄弟",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "中信兄弟",
+      "味全龍",
+      "G154"
+    ]
+  },
+  {
+    "id": "cpbl-2026-155-統一-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 富邦悍將",
+    "matchup": "統一7-ELEVEn獅 vs 富邦悍將",
+    "startTime": "2026-06-11T18:35:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "富邦悍將",
+      "G155"
+    ]
+  },
+  {
+    "id": "cpbl-2026-156-樂天-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 台鋼雄鷹",
+    "matchup": "樂天桃猿 vs 台鋼雄鷹",
+    "startTime": "2026-06-11T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "台鋼雄鷹",
+      "G156"
+    ]
+  },
+  {
+    "id": "cpbl-2026-157-中信-味全",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "中信兄弟 vs 味全龍",
+    "matchup": "中信兄弟 vs 味全龍",
+    "startTime": "2026-06-12T18:35:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "中信兄弟",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "中信兄弟",
+      "味全龍",
+      "G157"
+    ]
+  },
+  {
+    "id": "cpbl-2026-158-統一-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 富邦悍將",
+    "matchup": "統一7-ELEVEn獅 vs 富邦悍將",
+    "startTime": "2026-06-12T18:35:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "富邦悍將",
+      "G158"
+    ]
+  },
+  {
+    "id": "cpbl-2026-159-樂天-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 台鋼雄鷹",
+    "matchup": "樂天桃猿 vs 台鋼雄鷹",
+    "startTime": "2026-06-12T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "台鋼雄鷹",
+      "G159"
+    ]
+  },
+  {
+    "id": "cpbl-2026-160-統一-味全",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 味全龍",
+    "matchup": "統一7-ELEVEn獅 vs 味全龍",
+    "startTime": "2026-06-13T17:05:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "味全龍",
+      "G160"
+    ]
+  },
+  {
+    "id": "cpbl-2026-161-台鋼-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "台鋼雄鷹 vs 富邦悍將",
+    "matchup": "台鋼雄鷹 vs 富邦悍將",
+    "startTime": "2026-06-13T17:05:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "台鋼雄鷹",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "台鋼雄鷹",
+      "富邦悍將",
+      "G161"
+    ]
+  },
+  {
+    "id": "cpbl-2026-162-樂天-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-06-13T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G162"
+    ]
+  },
+  {
+    "id": "cpbl-2026-163-統一-味全",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 味全龍",
+    "matchup": "統一7-ELEVEn獅 vs 味全龍",
+    "startTime": "2026-06-14T16:05:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "味全龍",
+      "G163"
+    ]
+  },
+  {
+    "id": "cpbl-2026-164-台鋼-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "台鋼雄鷹 vs 富邦悍將",
+    "matchup": "台鋼雄鷹 vs 富邦悍將",
+    "startTime": "2026-06-14T17:05:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "台鋼雄鷹",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "台鋼雄鷹",
+      "富邦悍將",
+      "G164"
+    ]
+  },
+  {
+    "id": "cpbl-2026-165-樂天-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-06-14T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G165"
+    ]
+  },
+  {
+    "id": "cpbl-2026-166-中信-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "中信兄弟 vs 台鋼雄鷹",
+    "matchup": "中信兄弟 vs 台鋼雄鷹",
+    "startTime": "2026-06-16T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "中信兄弟",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "中信兄弟",
+      "台鋼雄鷹",
+      "G166"
+    ]
+  },
+  {
+    "id": "cpbl-2026-167-樂天-統一",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 統一7-ELEVEn獅",
+    "matchup": "樂天桃猿 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-16T18:35:00+08:00",
+    "location": "臺南市立棒球場",
+    "city": "台灣臺南",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "統一7-ELEVEn獅",
+      "G167"
+    ]
+  },
+  {
+    "id": "cpbl-2026-168-富邦-味全",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 味全龍",
+    "matchup": "富邦悍將 vs 味全龍",
+    "startTime": "2026-06-17T18:35:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "味全龍",
+      "G168"
+    ]
+  },
+  {
+    "id": "cpbl-2026-169-台鋼-統一",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "台鋼雄鷹 vs 統一7-ELEVEn獅",
+    "matchup": "台鋼雄鷹 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-18T18:35:00+08:00",
+    "location": "臺南市立棒球場",
+    "city": "台灣臺南",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "台鋼雄鷹",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "台鋼雄鷹",
+      "統一7-ELEVEn獅",
+      "G169"
+    ]
+  },
+  {
+    "id": "cpbl-2026-170-味全-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "味全龍 vs 樂天桃猿",
+    "matchup": "味全龍 vs 樂天桃猿",
+    "startTime": "2026-06-18T18:35:00+08:00",
+    "location": "樂天桃園棒球場",
+    "city": "台灣桃園",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "樂天桃猿",
+      "G170"
+    ]
+  },
+  {
+    "id": "cpbl-2026-171-富邦-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 中信兄弟",
+    "matchup": "富邦悍將 vs 中信兄弟",
+    "startTime": "2026-06-18T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "中信兄弟",
+      "G171"
+    ]
+  },
+  {
+    "id": "cpbl-2026-172-台鋼-統一",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "台鋼雄鷹 vs 統一7-ELEVEn獅",
+    "matchup": "台鋼雄鷹 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-19T16:05:00+08:00",
+    "location": "臺南市立棒球場",
+    "city": "台灣臺南",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "台鋼雄鷹",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "台鋼雄鷹",
+      "統一7-ELEVEn獅",
+      "G172"
+    ]
+  },
+  {
+    "id": "cpbl-2026-173-味全-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "味全龍 vs 樂天桃猿",
+    "matchup": "味全龍 vs 樂天桃猿",
+    "startTime": "2026-06-19T17:05:00+08:00",
+    "location": "樂天桃園棒球場",
+    "city": "台灣桃園",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "樂天桃猿",
+      "G173"
+    ]
+  },
+  {
+    "id": "cpbl-2026-174-富邦-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 中信兄弟",
+    "matchup": "富邦悍將 vs 中信兄弟",
+    "startTime": "2026-06-19T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "中信兄弟",
+      "G174"
+    ]
+  },
+  {
+    "id": "cpbl-2026-175-中信-統一",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "中信兄弟 vs 統一7-ELEVEn獅",
+    "matchup": "中信兄弟 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-20T16:05:00+08:00",
+    "location": "臺南市立棒球場",
+    "city": "台灣臺南",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "中信兄弟",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "中信兄弟",
+      "統一7-ELEVEn獅",
+      "G175"
+    ]
+  },
+  {
+    "id": "cpbl-2026-176-味全-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "味全龍 vs 台鋼雄鷹",
+    "matchup": "味全龍 vs 台鋼雄鷹",
+    "startTime": "2026-06-20T16:05:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "台鋼雄鷹",
+      "G176"
+    ]
+  },
+  {
+    "id": "cpbl-2026-177-富邦-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 樂天桃猿",
+    "matchup": "富邦悍將 vs 樂天桃猿",
+    "startTime": "2026-06-20T17:05:00+08:00",
+    "location": "樂天桃園棒球場",
+    "city": "台灣桃園",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "樂天桃猿",
+      "G177"
+    ]
+  },
+  {
+    "id": "cpbl-2026-178-中信-統一",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "中信兄弟 vs 統一7-ELEVEn獅",
+    "matchup": "中信兄弟 vs 統一7-ELEVEn獅",
+    "startTime": "2026-06-21T16:05:00+08:00",
+    "location": "臺南市立棒球場",
+    "city": "台灣臺南",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "中信兄弟",
+      "統一7-ELEVEn獅"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "中信兄弟",
+      "統一7-ELEVEn獅",
+      "G178"
+    ]
+  },
+  {
+    "id": "cpbl-2026-179-味全-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "味全龍 vs 台鋼雄鷹",
+    "matchup": "味全龍 vs 台鋼雄鷹",
+    "startTime": "2026-06-21T16:05:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "台鋼雄鷹",
+      "G179"
+    ]
+  },
+  {
+    "id": "cpbl-2026-180-富邦-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 樂天桃猿",
+    "matchup": "富邦悍將 vs 樂天桃猿",
+    "startTime": "2026-06-21T17:05:00+08:00",
+    "location": "樂天桃園棒球場",
+    "city": "台灣桃園",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "樂天桃猿",
+      "G180"
+    ]
+  },
+  {
+    "id": "cpbl-2026-057-富邦-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 富邦悍將 vs 中信兄弟",
+    "matchup": "富邦悍將 vs 中信兄弟",
+    "startTime": "2026-06-23T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "中信兄弟",
+      "G057",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-144-味全-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 味全龍 vs 台鋼雄鷹",
+    "matchup": "味全龍 vs 台鋼雄鷹",
+    "startTime": "2026-06-23T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "台鋼雄鷹",
+      "G144",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-153-統一-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 統一7-ELEVEn獅 vs 樂天桃猿",
+    "matchup": "統一7-ELEVEn獅 vs 樂天桃猿",
+    "startTime": "2026-06-23T18:35:00+08:00",
+    "location": "樂天桃園棒球場",
+    "city": "台灣桃園",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "樂天桃猿",
+      "G153",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-058-味全-樂天",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 味全龍 vs 樂天桃猿",
+    "matchup": "味全龍 vs 樂天桃猿",
+    "startTime": "2026-06-24T18:35:00+08:00",
+    "location": "樂天桃園棒球場",
+    "city": "台灣桃園",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "樂天桃猿"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "樂天桃猿",
+      "G058",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-141-富邦-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 富邦悍將 vs 台鋼雄鷹",
+    "matchup": "富邦悍將 vs 台鋼雄鷹",
+    "startTime": "2026-06-24T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "台鋼雄鷹",
+      "G141",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-151-味全-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 味全龍 vs 富邦悍將",
+    "matchup": "味全龍 vs 富邦悍將",
+    "startTime": "2026-06-25T18:35:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "味全龍",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "味全龍",
+      "富邦悍將",
+      "G151",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-152-台鋼-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 台鋼雄鷹 vs 中信兄弟",
+    "matchup": "台鋼雄鷹 vs 中信兄弟",
+    "startTime": "2026-06-25T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "台鋼雄鷹",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "台鋼雄鷹",
+      "中信兄弟",
+      "G152",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-080-樂天-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 樂天桃猿 vs 富邦悍將",
+    "matchup": "樂天桃猿 vs 富邦悍將",
+    "startTime": "2026-06-26T18:35:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "富邦悍將",
+      "G080",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-014-統一-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 統一7-ELEVEn獅 vs 中信兄弟",
+    "matchup": "統一7-ELEVEn獅 vs 中信兄弟",
+    "startTime": "2026-06-27T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "中信兄弟",
+      "G014",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-015-樂天-富邦",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 樂天桃猿 vs 富邦悍將",
+    "matchup": "樂天桃猿 vs 富邦悍將",
+    "startTime": "2026-06-27T17:05:00+08:00",
+    "location": "新莊棒球場",
+    "city": "台灣新北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "富邦悍將"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "富邦悍將",
+      "G015",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-150-樂天-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "補賽 樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-06-28T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G150",
+      "補賽"
+    ]
+  },
+  {
+    "id": "cpbl-2026-181-統一-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 台鋼雄鷹",
+    "matchup": "統一7-ELEVEn獅 vs 台鋼雄鷹",
+    "startTime": "2026-07-03T18:35:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "台鋼雄鷹",
+      "G181"
+    ]
+  },
+  {
+    "id": "cpbl-2026-182-富邦-味全",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 味全龍",
+    "matchup": "富邦悍將 vs 味全龍",
+    "startTime": "2026-07-03T18:35:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "味全龍",
+      "G182"
+    ]
+  },
+  {
+    "id": "cpbl-2026-183-樂天-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-07-03T18:35:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G183"
+    ]
+  },
+  {
+    "id": "cpbl-2026-184-統一-台鋼",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "統一7-ELEVEn獅 vs 台鋼雄鷹",
+    "matchup": "統一7-ELEVEn獅 vs 台鋼雄鷹",
+    "startTime": "2026-07-04T16:05:00+08:00",
+    "location": "澄清湖棒球場",
+    "city": "台灣高雄",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "統一7-ELEVEn獅",
+      "台鋼雄鷹"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "統一7-ELEVEn獅",
+      "台鋼雄鷹",
+      "G184"
+    ]
+  },
+  {
+    "id": "cpbl-2026-185-富邦-味全",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "富邦悍將 vs 味全龍",
+    "matchup": "富邦悍將 vs 味全龍",
+    "startTime": "2026-07-04T17:05:00+08:00",
+    "location": "天母棒球場",
+    "city": "台灣台北",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "富邦悍將",
+      "味全龍"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "富邦悍將",
+      "味全龍",
+      "G185"
+    ]
+  },
+  {
+    "id": "cpbl-2026-186-樂天-中信",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "樂天桃猿 vs 中信兄弟",
+    "matchup": "樂天桃猿 vs 中信兄弟",
+    "startTime": "2026-07-04T17:05:00+08:00",
+    "location": "臺中洲際棒球場",
+    "city": "台灣臺中",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "樂天桃猿",
+      "中信兄弟"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "台灣",
+      "中華職棒",
+      "樂天桃猿",
+      "中信兄弟",
+      "G186"
+    ]
+  },
+  {
+    "id": "cpbl-2026-06-29-draft",
+    "leagueId": "cpbl",
+    "leagueName": "CPBL",
+    "sport": "baseball",
+    "title": "中華職棒季中選秀",
+    "matchup": "中華職棒季中選秀",
+    "startTime": "2026-06-29T18:00:00+08:00",
+    "location": "",
+    "city": "台灣",
+    "officialUrl": "https://www.cpbl.com.tw/schedule",
+    "participants": [
+      "CPBL"
+    ],
+    "tags": [
+      "CPBL",
+      "棒球",
+      "中華職棒",
+      "季中選秀"
+    ]
   }
 ]

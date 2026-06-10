@@ -1,7 +1,9 @@
 "use client";
 
+import { useState } from "react";
+import { ChevronDown, ChevronRight } from "lucide-react";
+
 import { Checkbox } from "@/components/ui/checkbox";
-import { Button } from "@/components/ui/button";
 import {
   ALL_LEAGUE_IDS,
   CYCLING_LEAGUE_IDS,
@@ -31,37 +33,64 @@ function LeagueRow({ league }: { league: LeagueConfig }) {
   );
 }
 
-export function LeagueFilter() {
+function LeagueGroup({
+  title,
+  leagueIds,
+  leagues,
+  defaultOpen = false,
+}: {
+  title: string;
+  leagueIds: LeagueId[];
+  leagues: LeagueConfig[];
+  defaultOpen?: boolean;
+}) {
+  const [open, setOpen] = useState(defaultOpen);
   const activeLeagueIds = useCalendarStore((state) => state.activeLeagueIds);
-  const setAllLeagues = useCalendarStore((state) => state.setAllLeagues);
   const setLeagueGroup = useCalendarStore((state) => state.setLeagueGroup);
-  const toggleLeague = useCalendarStore((state) => state.toggleLeague);
-
-  const allChecked = getGroupChecked(activeLeagueIds, ALL_LEAGUE_IDS);
-  const worldCupChecked = getGroupChecked(activeLeagueIds, WORLD_CUP_LEAGUE_IDS);
-  const cyclingChecked = getGroupChecked(activeLeagueIds, CYCLING_LEAGUE_IDS);
+  const checked = getGroupChecked(activeLeagueIds, leagueIds);
 
   return (
     <div className="space-y-1">
-      <div className="mb-2 flex items-center gap-2 px-2">
-        <Checkbox checked={allChecked} onCheckedChange={(checked) => setAllLeagues(checked === true)} />
-        <Button type="button" size="sm" variant="secondary" className="h-7 flex-1" onClick={() => setAllLeagues(true)}>
-          全選
-        </Button>
-        <Button type="button" size="sm" variant="outline" className="h-7 flex-1" onClick={() => setAllLeagues(false)}>
-          全取消
-        </Button>
+      <div className="flex items-center gap-2 rounded-md px-2 py-1.5 text-sm transition-colors duration-150 hover:bg-accent">
+        <Checkbox checked={checked} onCheckedChange={(nextChecked) => setLeagueGroup(leagueIds, nextChecked === true)} />
+        <button
+          type="button"
+          className="flex min-w-0 flex-1 items-center gap-1 text-left"
+          aria-expanded={open}
+          onClick={() => setOpen((value) => !value)}
+        >
+          {open ? <ChevronDown className="h-4 w-4 shrink-0" /> : <ChevronRight className="h-4 w-4 shrink-0" />}
+          <span className="min-w-0 flex-1 truncate">{title}</span>
+          <span className="text-xs text-muted-foreground">{open ? "收合" : `${leagues.length} 項`}</span>
+        </button>
       </div>
 
-      <label className="flex cursor-pointer items-center gap-2 rounded-md px-2 py-1.5 text-sm transition-colors duration-150 hover:bg-accent">
-        <Checkbox checked={worldCupChecked} onCheckedChange={(checked) => setLeagueGroup(WORLD_CUP_LEAGUE_IDS, checked === true)} />
-        <span className="min-w-0 flex-1 truncate">FIFA 世界盃</span>
+      {open ? (
+        <div className="ml-6 grid grid-cols-2 gap-x-2 gap-y-1 border-l border-border pl-3">
+          {leagues.map((league) => (
+            <LeagueRow key={league.id} league={league} />
+          ))}
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
+export function LeagueFilter() {
+  const activeLeagueIds = useCalendarStore((state) => state.activeLeagueIds);
+  const setAllLeagues = useCalendarStore((state) => state.setAllLeagues);
+  const toggleLeague = useCalendarStore((state) => state.toggleLeague);
+
+  const allChecked = getGroupChecked(activeLeagueIds, ALL_LEAGUE_IDS);
+
+  return (
+    <div className="space-y-1">
+      <label className="mb-2 flex cursor-pointer items-center gap-2 rounded-md px-2 py-1.5 text-sm transition-colors duration-150 hover:bg-accent">
+        <Checkbox checked={allChecked} onCheckedChange={(checked) => setAllLeagues(checked === true)} />
+        <span className="min-w-0 flex-1 truncate">全選</span>
       </label>
-      <div className="ml-6 grid grid-cols-2 gap-x-2 gap-y-1 border-l border-border pl-3">
-        {WORLD_CUP_LEAGUES.map((league) => (
-          <LeagueRow key={league.id} league={league} />
-        ))}
-      </div>
+
+      <LeagueGroup title="FIFA 世界盃" leagueIds={WORLD_CUP_LEAGUE_IDS} leagues={WORLD_CUP_LEAGUES} />
 
       {PRIMARY_LEAGUES.map((league) => (
         <label key={league.id} className="flex cursor-pointer items-center gap-2 rounded-md px-2 py-1.5 text-sm transition-colors duration-150 hover:bg-accent">
@@ -70,15 +99,7 @@ export function LeagueFilter() {
         </label>
       ))}
 
-      <label className="flex cursor-pointer items-center gap-2 rounded-md px-2 py-1.5 text-sm transition-colors duration-150 hover:bg-accent">
-        <Checkbox checked={cyclingChecked} onCheckedChange={(checked) => setLeagueGroup(CYCLING_LEAGUE_IDS, checked === true)} />
-        <span className="min-w-0 flex-1 truncate">單車</span>
-      </label>
-      <div className="ml-6 space-y-1 border-l border-border pl-3">
-        {CYCLING_LEAGUES.map((league) => (
-          <LeagueRow key={league.id} league={league} />
-        ))}
-      </div>
+      <LeagueGroup title="單車" leagueIds={CYCLING_LEAGUE_IDS} leagues={CYCLING_LEAGUES} />
     </div>
   );
 }
