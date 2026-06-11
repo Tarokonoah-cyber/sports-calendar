@@ -1,626 +1,618 @@
 [
   {
-    "id": "f1-2026-round-01-australia",
+    "id": "f1-2026-race-01-australia",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 1 站：澳洲大獎賽",
-    "matchup": "FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
-    "startTime": "2026-03-06T09:00:00+11:00",
-    "endTime": "2026-03-08T18:00:00+11:00",
-    "location": "Albert Park Circuit",
+    "title": "F1 澳洲GP 正賽",
+    "matchup": "F1 澳洲GP 正賽",
+    "startTime": "2026-03-08T20:00:00+08:00",
+    "location": "Albert Park",
     "city": "澳洲墨爾本",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Australia",
-      "澳洲大獎賽"
+      "澳洲GP",
+      "Australian Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Australia",
-      "澳洲大獎賽"
+      "澳洲",
+      "Australian Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-02-china",
+    "id": "f1-2026-race-02-china",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 2 站：中國大獎賽",
-    "matchup": "FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026",
-    "startTime": "2026-03-13T09:00:00+08:00",
-    "endTime": "2026-03-15T18:00:00+08:00",
+    "title": "F1 中國GP 正賽",
+    "matchup": "F1 中國GP 正賽",
+    "startTime": "2026-03-15T20:00:00+08:00",
     "location": "Shanghai International Circuit",
     "city": "中國上海",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "China",
-      "中國大獎賽"
+      "中國GP",
+      "Chinese Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "China",
-      "中國大獎賽"
+      "中國",
+      "Chinese Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-03-japan",
+    "id": "f1-2026-race-03-japan",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 3 站：日本大獎賽",
-    "matchup": "FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026",
-    "startTime": "2026-03-27T09:00:00+09:00",
-    "endTime": "2026-03-29T18:00:00+09:00",
+    "title": "F1 日本GP 正賽",
+    "matchup": "F1 日本GP 正賽",
+    "startTime": "2026-03-29T20:00:00+08:00",
     "location": "Suzuka Circuit",
     "city": "日本鈴鹿",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
+      "日本GP",
+      "Japanese Grand Prix",
+      "正賽"
+    ],
+    "tags": [
+      "F1",
+      "Formula 1",
+      "一級方程式",
+      "正賽",
+      "Grand Prix",
       "Japan",
-      "日本大獎賽"
-    ],
-    "tags": [
-      "F1",
-      "Formula 1",
-      "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Japan",
-      "日本大獎賽"
+      "日本",
+      "Japanese Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-04-bahrain",
+    "id": "f1-2026-race-04-miami",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 4 站：巴林大獎賽",
-    "matchup": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2026",
-    "startTime": "2026-04-10T09:00:00+03:00",
-    "endTime": "2026-04-12T18:00:00+03:00",
-    "location": "Bahrain International Circuit",
-    "city": "巴林薩基爾",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
-    "participants": [
-      "Formula 1",
-      "Bahrain",
-      "巴林大獎賽"
-    ],
-    "tags": [
-      "F1",
-      "Formula 1",
-      "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Bahrain",
-      "巴林大獎賽"
-    ]
-  },
-  {
-    "id": "f1-2026-round-05-saudi-arabia",
-    "leagueId": "f1",
-    "leagueName": "Formula 1 一級方程式",
-    "sport": "motorsport",
-    "title": "第 5 站：沙烏地阿拉伯大獎賽",
-    "matchup": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2026",
-    "startTime": "2026-04-17T09:00:00+03:00",
-    "endTime": "2026-04-19T18:00:00+03:00",
-    "location": "Jeddah Corniche Circuit",
-    "city": "沙烏地阿拉伯吉達",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
-    "participants": [
-      "Formula 1",
-      "Saudi Arabia",
-      "沙烏地阿拉伯大獎賽"
-    ],
-    "tags": [
-      "F1",
-      "Formula 1",
-      "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Saudi Arabia",
-      "沙烏地阿拉伯大獎賽"
-    ]
-  },
-  {
-    "id": "f1-2026-round-06-miami",
-    "leagueId": "f1",
-    "leagueName": "Formula 1 一級方程式",
-    "sport": "motorsport",
-    "title": "第 6 站：邁阿密大獎賽",
-    "matchup": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026",
-    "startTime": "2026-05-01T09:00:00-04:00",
-    "endTime": "2026-05-03T18:00:00-04:00",
+    "title": "F1 邁阿密GP 正賽",
+    "matchup": "F1 邁阿密GP 正賽",
+    "startTime": "2026-05-03T20:00:00+08:00",
     "location": "Miami International Autodrome",
     "city": "美國邁阿密",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Miami",
-      "邁阿密大獎賽"
+      "邁阿密GP",
+      "Miami Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Miami",
-      "邁阿密大獎賽"
+      "正賽",
+      "Grand Prix",
+      "United States",
+      "邁阿密",
+      "Miami Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-07-canada",
+    "id": "f1-2026-race-05-canada",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 7 站：加拿大大獎賽",
-    "matchup": "FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026",
-    "startTime": "2026-05-22T09:00:00-04:00",
-    "endTime": "2026-05-24T18:00:00-04:00",
-    "location": "Circuit Gilles Villeneuve",
+    "title": "F1 加拿大GP 正賽",
+    "matchup": "F1 加拿大GP 正賽",
+    "startTime": "2026-05-24T20:00:00+08:00",
+    "location": "Circuit Gilles-Villeneuve",
     "city": "加拿大蒙特婁",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Canada",
-      "加拿大大獎賽"
+      "加拿大GP",
+      "Canadian Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Canada",
-      "加拿大大獎賽"
+      "加拿大",
+      "Canadian Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-08-monaco",
+    "id": "f1-2026-race-06-monaco",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 8 站：摩納哥大獎賽",
-    "matchup": "FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
-    "startTime": "2026-06-05T09:00:00+02:00",
-    "endTime": "2026-06-07T18:00:00+02:00",
+    "title": "F1 摩納哥GP 正賽",
+    "matchup": "F1 摩納哥GP 正賽",
+    "startTime": "2026-06-07T20:00:00+08:00",
     "location": "Circuit de Monaco",
     "city": "摩納哥",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Monaco",
-      "摩納哥大獎賽"
+      "摩納哥GP",
+      "Monaco Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Monaco",
-      "摩納哥大獎賽"
+      "摩納哥",
+      "Monaco Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-09-barcelona-catalunya",
+    "id": "f1-2026-race-07-barcelona-catalunya",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 9 站：西班牙大獎賽（巴塞隆納）",
-    "matchup": "FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026",
-    "startTime": "2026-06-12T09:00:00+02:00",
-    "endTime": "2026-06-14T18:00:00+02:00",
+    "title": "F1 巴塞隆納-加泰隆尼亞GP 正賽",
+    "matchup": "F1 巴塞隆納-加泰隆尼亞GP 正賽",
+    "startTime": "2026-06-14T20:00:00+08:00",
     "location": "Circuit de Barcelona-Catalunya",
-    "city": "西班牙巴塞隆納",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "city": "西班牙加泰隆尼亞",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Barcelona-Catalunya",
-      "西班牙大獎賽（巴塞隆納）"
+      "巴塞隆納-加泰隆尼亞GP",
+      "Barcelona-Catalunya Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Barcelona-Catalunya",
-      "西班牙大獎賽（巴塞隆納）"
+      "正賽",
+      "Grand Prix",
+      "Spain",
+      "巴塞隆納-加泰隆尼亞",
+      "Barcelona-Catalunya Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-10-austria",
+    "id": "f1-2026-race-08-austria",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 10 站：奧地利大獎賽",
-    "matchup": "FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026",
-    "startTime": "2026-06-26T09:00:00+02:00",
-    "endTime": "2026-06-28T18:00:00+02:00",
+    "title": "F1 奧地利GP 正賽",
+    "matchup": "F1 奧地利GP 正賽",
+    "startTime": "2026-06-28T20:00:00+08:00",
     "location": "Red Bull Ring",
-    "city": "奧地利斯皮爾伯格",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "city": "奧地利斯皮爾堡",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Austria",
-      "奧地利大獎賽"
+      "奧地利GP",
+      "Austrian Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Austria",
-      "奧地利大獎賽"
+      "奧地利",
+      "Austrian Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-11-great-britain",
+    "id": "f1-2026-race-09-britain",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 11 站：英國大獎賽",
-    "matchup": "FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026",
-    "startTime": "2026-07-03T09:00:00+01:00",
-    "endTime": "2026-07-05T18:00:00+01:00",
+    "title": "F1 英國GP 正賽",
+    "matchup": "F1 英國GP 正賽",
+    "startTime": "2026-07-05T20:00:00+08:00",
     "location": "Silverstone Circuit",
     "city": "英國銀石",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Great Britain",
-      "英國大獎賽"
+      "英國GP",
+      "British Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Great Britain",
-      "英國大獎賽"
+      "正賽",
+      "Grand Prix",
+      "United Kingdom",
+      "英國",
+      "British Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-12-belgium",
+    "id": "f1-2026-race-10-belgium",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 12 站：比利時大獎賽",
-    "matchup": "FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026",
-    "startTime": "2026-07-17T09:00:00+02:00",
-    "endTime": "2026-07-19T18:00:00+02:00",
-    "location": "Circuit de Spa-Francorchamps",
+    "title": "F1 比利時GP 正賽",
+    "matchup": "F1 比利時GP 正賽",
+    "startTime": "2026-07-19T20:00:00+08:00",
+    "location": "Spa-Francorchamps",
     "city": "比利時斯帕",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Belgium",
-      "比利時大獎賽"
+      "比利時GP",
+      "Belgian Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Belgium",
-      "比利時大獎賽"
+      "比利時",
+      "Belgian Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-13-hungary",
+    "id": "f1-2026-race-11-hungary",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 13 站：匈牙利大獎賽",
-    "matchup": "FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026",
-    "startTime": "2026-07-24T09:00:00+02:00",
-    "endTime": "2026-07-26T18:00:00+02:00",
+    "title": "F1 匈牙利GP 正賽",
+    "matchup": "F1 匈牙利GP 正賽",
+    "startTime": "2026-07-26T20:00:00+08:00",
     "location": "Hungaroring",
     "city": "匈牙利布達佩斯",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Hungary",
-      "匈牙利大獎賽"
+      "匈牙利GP",
+      "Hungarian Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Hungary",
-      "匈牙利大獎賽"
+      "匈牙利",
+      "Hungarian Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-14-netherlands",
+    "id": "f1-2026-race-12-netherlands",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 14 站：荷蘭大獎賽",
-    "matchup": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026",
-    "startTime": "2026-08-21T09:00:00+02:00",
-    "endTime": "2026-08-23T18:00:00+02:00",
+    "title": "F1 荷蘭GP 正賽",
+    "matchup": "F1 荷蘭GP 正賽",
+    "startTime": "2026-08-23T20:00:00+08:00",
     "location": "Circuit Zandvoort",
     "city": "荷蘭贊德沃特",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Netherlands",
-      "荷蘭大獎賽"
+      "荷蘭GP",
+      "Dutch Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Netherlands",
-      "荷蘭大獎賽"
+      "荷蘭",
+      "Dutch Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-15-italy",
+    "id": "f1-2026-race-13-italy",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 15 站：義大利大獎賽",
-    "matchup": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026",
-    "startTime": "2026-09-04T09:00:00+02:00",
-    "endTime": "2026-09-06T18:00:00+02:00",
-    "location": "Autodromo Nazionale Monza",
-    "city": "義大利蒙札",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "title": "F1 義大利GP 正賽",
+    "matchup": "F1 義大利GP 正賽",
+    "startTime": "2026-09-06T20:00:00+08:00",
+    "location": "Monza",
+    "city": "義大利蒙扎",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Italy",
-      "義大利大獎賽"
+      "義大利GP",
+      "Italian Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Italy",
-      "義大利大獎賽"
+      "義大利",
+      "Italian Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-16-spain",
+    "id": "f1-2026-race-14-spain",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 16 站：西班牙大獎賽（馬德里）",
-    "matchup": "FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026",
-    "startTime": "2026-09-11T09:00:00+02:00",
-    "endTime": "2026-09-13T18:00:00+02:00",
-    "location": "Madring",
+    "title": "F1 西班牙GP 正賽",
+    "matchup": "F1 西班牙GP 正賽",
+    "startTime": "2026-09-13T20:00:00+08:00",
+    "location": "Madrid IFEMA",
     "city": "西班牙馬德里",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Spain",
-      "西班牙大獎賽（馬德里）"
+      "西班牙GP",
+      "Spanish Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Spain",
-      "西班牙大獎賽（馬德里）"
+      "西班牙",
+      "Spanish Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-17-azerbaijan",
+    "id": "f1-2026-race-15-azerbaijan",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 17 站：亞塞拜然大獎賽",
-    "matchup": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-    "startTime": "2026-09-24T09:00:00+04:00",
-    "endTime": "2026-09-26T18:00:00+04:00",
+    "title": "F1 亞塞拜然GP 正賽",
+    "matchup": "F1 亞塞拜然GP 正賽",
+    "startTime": "2026-09-26T20:00:00+08:00",
     "location": "Baku City Circuit",
     "city": "亞塞拜然巴庫",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Azerbaijan",
-      "亞塞拜然大獎賽"
+      "亞塞拜然GP",
+      "Azerbaijan Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Azerbaijan",
-      "亞塞拜然大獎賽"
+      "亞塞拜然",
+      "Azerbaijan Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-18-singapore",
+    "id": "f1-2026-race-16-singapore",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 18 站：新加坡大獎賽",
-    "matchup": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-    "startTime": "2026-10-09T09:00:00+08:00",
-    "endTime": "2026-10-11T18:00:00+08:00",
+    "title": "F1 新加坡GP 正賽",
+    "matchup": "F1 新加坡GP 正賽",
+    "startTime": "2026-10-11T20:00:00+08:00",
     "location": "Marina Bay Street Circuit",
     "city": "新加坡",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Singapore",
-      "新加坡大獎賽"
+      "新加坡GP",
+      "Singapore Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Singapore",
-      "新加坡大獎賽"
+      "新加坡",
+      "Singapore Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-19-united-states",
+    "id": "f1-2026-race-17-united-states",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 19 站：美國大獎賽",
-    "matchup": "FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
-    "startTime": "2026-10-23T09:00:00-05:00",
-    "endTime": "2026-10-25T18:00:00-05:00",
-    "location": "Circuit of The Americas",
-    "city": "美國德州奧斯汀",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "title": "F1 美國GP 正賽",
+    "matchup": "F1 美國GP 正賽",
+    "startTime": "2026-10-25T20:00:00+08:00",
+    "location": "Circuit of the Americas",
+    "city": "美國奧斯汀",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "United States",
-      "美國大獎賽"
+      "美國GP",
+      "United States Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "United States",
-      "美國大獎賽"
+      "美國",
+      "United States Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-20-mexico",
+    "id": "f1-2026-race-18-mexico-city",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 20 站：墨西哥大獎賽",
-    "matchup": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026",
-    "startTime": "2026-10-30T09:00:00-06:00",
-    "endTime": "2026-11-01T18:00:00-06:00",
+    "title": "F1 墨西哥城GP 正賽",
+    "matchup": "F1 墨西哥城GP 正賽",
+    "startTime": "2026-11-01T20:00:00+08:00",
     "location": "Autodromo Hermanos Rodriguez",
     "city": "墨西哥城",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Mexico",
-      "墨西哥大獎賽"
+      "墨西哥城GP",
+      "Mexico City Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Mexico",
-      "墨西哥大獎賽"
+      "墨西哥城",
+      "Mexico City Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-21-brazil",
+    "id": "f1-2026-race-19-sao-paulo",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 21 站：巴西大獎賽",
-    "matchup": "FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026",
-    "startTime": "2026-11-06T09:00:00-03:00",
-    "endTime": "2026-11-08T18:00:00-03:00",
-    "location": "Autodromo Jose Carlos Pace",
+    "title": "F1 聖保羅GP 正賽",
+    "matchup": "F1 聖保羅GP 正賽",
+    "startTime": "2026-11-08T20:00:00+08:00",
+    "location": "Interlagos",
     "city": "巴西聖保羅",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Brazil",
-      "巴西大獎賽"
+      "聖保羅GP",
+      "São Paulo Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Brazil",
-      "巴西大獎賽"
+      "聖保羅",
+      "São Paulo Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-22-las-vegas",
+    "id": "f1-2026-race-20-las-vegas",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 22 站：拉斯維加斯大獎賽",
-    "matchup": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
-    "startTime": "2026-11-19T09:00:00-08:00",
-    "endTime": "2026-11-21T18:00:00-08:00",
+    "title": "F1 拉斯維加斯GP 正賽",
+    "matchup": "F1 拉斯維加斯GP 正賽",
+    "startTime": "2026-11-21T20:00:00+08:00",
     "location": "Las Vegas Strip Circuit",
     "city": "美國拉斯維加斯",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Las Vegas",
-      "拉斯維加斯大獎賽"
+      "拉斯維加斯GP",
+      "Las Vegas Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Las Vegas",
-      "拉斯維加斯大獎賽"
+      "正賽",
+      "Grand Prix",
+      "United States",
+      "拉斯維加斯",
+      "Las Vegas Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-23-qatar",
+    "id": "f1-2026-race-21-qatar",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 23 站：卡達大獎賽",
-    "matchup": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
-    "startTime": "2026-11-27T09:00:00+03:00",
-    "endTime": "2026-11-29T18:00:00+03:00",
+    "title": "F1 卡達GP 正賽",
+    "matchup": "F1 卡達GP 正賽",
+    "startTime": "2026-11-29T20:00:00+08:00",
     "location": "Lusail International Circuit",
-    "city": "卡達盧賽爾",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "city": "卡達路薩爾",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Qatar",
-      "卡達大獎賽"
+      "卡達GP",
+      "Qatar Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
+      "正賽",
+      "Grand Prix",
       "Qatar",
-      "卡達大獎賽"
+      "卡達",
+      "Qatar Grand Prix"
     ]
   },
   {
-    "id": "f1-2026-round-24-abu-dhabi",
+    "id": "f1-2026-race-22-abu-dhabi",
     "leagueId": "f1",
     "leagueName": "Formula 1 一級方程式",
     "sport": "motorsport",
-    "title": "第 24 站：阿布達比大獎賽",
-    "matchup": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026",
-    "startTime": "2026-12-04T09:00:00+04:00",
-    "endTime": "2026-12-06T18:00:00+04:00",
+    "title": "F1 阿布達比GP 正賽",
+    "matchup": "F1 阿布達比GP 正賽",
+    "startTime": "2026-12-06T20:00:00+08:00",
     "location": "Yas Marina Circuit",
-    "city": "阿布達比亞斯碼頭",
-    "officialUrl": "https://www.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+    "city": "阿拉伯聯合大公國阿布達比",
+    "officialUrl": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/formula-one",
     "participants": [
       "Formula 1",
-      "Abu Dhabi",
-      "阿布達比大獎賽"
+      "阿布達比GP",
+      "Abu Dhabi Grand Prix",
+      "正賽"
     ],
     "tags": [
       "F1",
       "Formula 1",
       "一級方程式",
-      "2026 FIA Formula One World Championship",
-      "Abu Dhabi",
-      "阿布達比大獎賽"
+      "正賽",
+      "Grand Prix",
+      "United Arab Emirates",
+      "阿布達比",
+      "Abu Dhabi Grand Prix"
     ]
   }
 ]

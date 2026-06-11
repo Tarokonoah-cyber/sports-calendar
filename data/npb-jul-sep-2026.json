@@ -1,485 +1,5 @@
 [
   {
-    "id": "npb-2026-06-10-baystars-carp",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "橫濱DeNA vs 廣島鯉魚",
-    "matchup": "橫濱DeNA vs 廣島鯉魚",
-    "startTime": "2026-06-10T18:00:00+08:00",
-    "location": "MAZDA Zoom-Zoom Stadium",
-    "city": "日本廣島",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "橫濱DeNA灣星",
-      "廣島東洋鯉魚"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "DeNA",
-      "廣島鯉魚",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-10-hanshin-yomiuri",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "阪神虎 vs 讀賣巨人",
-    "matchup": "阪神虎 vs 讀賣巨人",
-    "startTime": "2026-06-10T18:00:00+08:00",
-    "location": "阪神甲子園球場",
-    "city": "日本西宮",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "阪神虎",
-      "讀賣巨人"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "阪神虎",
-      "讀賣巨人",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-11-dragons-swallows",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "中日龍 vs 養樂多燕子",
-    "matchup": "中日龍 vs 養樂多燕子",
-    "startTime": "2026-06-11T18:00:00+08:00",
-    "location": "明治神宮球場",
-    "city": "日本東京",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "中日龍",
-      "東京養樂多燕子"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "中日龍",
-      "養樂多燕子",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-12-fighters-eagles",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 vs 樂天金鷲",
-    "matchup": "日本火腿 vs 樂天金鷲",
-    "startTime": "2026-06-12T18:00:00+08:00",
-    "location": "楽天モバイルパーク宮城",
-    "city": "日本仙台",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "北海道日本火腿鬥士",
-      "東北樂天金鷲"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "日本火腿",
-      "樂天金鷲",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-12-softbank-lotte",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀鷹 vs 羅德海洋",
-    "matchup": "軟銀鷹 vs 羅德海洋",
-    "startTime": "2026-06-12T18:00:00+08:00",
-    "location": "Mizuho PayPay Dome",
-    "city": "日本福岡",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "福岡軟銀鷹",
-      "千葉羅德海洋"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "軟銀鷹",
-      "羅德海洋",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-13-buffaloes-lions",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "歐力士猛牛 vs 西武獅",
-    "matchup": "歐力士猛牛 vs 西武獅",
-    "startTime": "2026-06-13T14:00:00+08:00",
-    "location": "Belluna Dome",
-    "city": "日本所澤",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "歐力士猛牛",
-      "埼玉西武獅"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "歐力士猛牛",
-      "西武獅",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-14-yomiuri-hanshin",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "讀賣巨人 vs 阪神虎",
-    "matchup": "讀賣巨人 vs 阪神虎",
-    "startTime": "2026-06-14T14:00:00+08:00",
-    "location": "東京巨蛋",
-    "city": "日本東京",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "讀賣巨人",
-      "阪神虎"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "讀賣巨人",
-      "阪神虎",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-16-carp-dragons",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "廣島鯉魚 vs 中日龍",
-    "matchup": "廣島鯉魚 vs 中日龍",
-    "startTime": "2026-06-16T18:00:00+08:00",
-    "location": "Vantelin Dome Nagoya",
-    "city": "日本名古屋",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "廣島東洋鯉魚",
-      "中日龍"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "廣島鯉魚",
-      "中日龍",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-17-swallows-baystars",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "養樂多燕子 vs 橫濱DeNA",
-    "matchup": "養樂多燕子 vs 橫濱DeNA",
-    "startTime": "2026-06-17T18:00:00+08:00",
-    "location": "橫濱球場",
-    "city": "日本橫濱",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "東京養樂多燕子",
-      "橫濱DeNA灣星"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "養樂多燕子",
-      "DeNA",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-18-lotte-softbank",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "羅德海洋 vs 軟銀鷹",
-    "matchup": "羅德海洋 vs 軟銀鷹",
-    "startTime": "2026-06-18T18:00:00+08:00",
-    "location": "Mizuho PayPay Dome",
-    "city": "日本福岡",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "千葉羅德海洋",
-      "福岡軟銀鷹"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "羅德海洋",
-      "軟銀鷹",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-19-eagles-fighters",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天金鷲 vs 日本火腿",
-    "matchup": "樂天金鷲 vs 日本火腿",
-    "startTime": "2026-06-19T18:00:00+08:00",
-    "location": "ES CON Field Hokkaido",
-    "city": "日本北廣島",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "東北樂天金鷲",
-      "北海道日本火腿鬥士"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "樂天金鷲",
-      "日本火腿",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-20-lions-buffaloes",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武獅 vs 歐力士猛牛",
-    "matchup": "西武獅 vs 歐力士猛牛",
-    "startTime": "2026-06-20T14:00:00+08:00",
-    "location": "Kyocera Dome Osaka",
-    "city": "日本大阪",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "埼玉西武獅",
-      "歐力士猛牛"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "西武獅",
-      "歐力士猛牛",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-21-hanshin-carp",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "阪神虎 vs 廣島鯉魚",
-    "matchup": "阪神虎 vs 廣島鯉魚",
-    "startTime": "2026-06-21T14:00:00+08:00",
-    "location": "MAZDA Zoom-Zoom Stadium",
-    "city": "日本廣島",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "阪神虎",
-      "廣島東洋鯉魚"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "阪神虎",
-      "廣島鯉魚",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-23-yomiuri-baystars",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "讀賣巨人 vs 橫濱DeNA",
-    "matchup": "讀賣巨人 vs 橫濱DeNA",
-    "startTime": "2026-06-23T18:00:00+08:00",
-    "location": "橫濱球場",
-    "city": "日本橫濱",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "讀賣巨人",
-      "橫濱DeNA灣星"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "讀賣巨人",
-      "DeNA",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-24-dragons-swallows",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "中日龍 vs 養樂多燕子",
-    "matchup": "中日龍 vs 養樂多燕子",
-    "startTime": "2026-06-24T18:00:00+08:00",
-    "location": "明治神宮球場",
-    "city": "日本東京",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "中日龍",
-      "東京養樂多燕子"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "中日龍",
-      "養樂多燕子",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-25-softbank-eagles",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀鷹 vs 樂天金鷲",
-    "matchup": "軟銀鷹 vs 樂天金鷲",
-    "startTime": "2026-06-25T18:00:00+08:00",
-    "location": "楽天モバイルパーク宮城",
-    "city": "日本仙台",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "福岡軟銀鷹",
-      "東北樂天金鷲"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "軟銀鷹",
-      "樂天金鷲",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-26-fighters-lotte",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 vs 羅德海洋",
-    "matchup": "日本火腿 vs 羅德海洋",
-    "startTime": "2026-06-26T18:00:00+08:00",
-    "location": "ZOZO Marine Stadium",
-    "city": "日本千葉",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "北海道日本火腿鬥士",
-      "千葉羅德海洋"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "日本火腿",
-      "羅德海洋",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-27-buffaloes-lions",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "歐力士猛牛 vs 西武獅",
-    "matchup": "歐力士猛牛 vs 西武獅",
-    "startTime": "2026-06-27T14:00:00+08:00",
-    "location": "Belluna Dome",
-    "city": "日本所澤",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "歐力士猛牛",
-      "埼玉西武獅"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "歐力士猛牛",
-      "西武獅",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-28-carp-yomiuri",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "廣島鯉魚 vs 讀賣巨人",
-    "matchup": "廣島鯉魚 vs 讀賣巨人",
-    "startTime": "2026-06-28T14:00:00+08:00",
-    "location": "東京巨蛋",
-    "city": "日本東京",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "廣島東洋鯉魚",
-      "讀賣巨人"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "廣島鯉魚",
-      "讀賣巨人",
-      "GMT+8"
-    ]
-  },
-  {
-    "id": "npb-2026-06-30-swallows-hanshin",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "養樂多燕子 vs 阪神虎",
-    "matchup": "養樂多燕子 vs 阪神虎",
-    "startTime": "2026-06-30T18:00:00+08:00",
-    "location": "阪神甲子園球場",
-    "city": "日本西宮",
-    "officialUrl": "https://npb.jp/games/",
-    "participants": [
-      "東京養樂多燕子",
-      "阪神虎"
-    ],
-    "tags": [
-      "NPB",
-      "棒球",
-      "日本",
-      "養樂多燕子",
-      "阪神虎",
-      "GMT+8"
-    ]
-  },
-  {
     "id": "npb-2026-0701-01-g-s",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -610,6 +130,32 @@
     ]
   },
   {
+    "id": "npb-2026-0702-01-db-c",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "橫濱DeNA VS 廣島鯉魚",
+    "matchup": "橫濱DeNA VS 廣島鯉魚",
+    "startTime": "2026-07-02T18:15:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "橫濱DeNA",
+      "廣島鯉魚",
+      "DB",
+      "C"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "橫濱DeNA",
+      "廣島鯉魚",
+      "DB",
+      "C"
+    ]
+  },
+  {
     "id": "npb-2026-0702-02-t-d",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -685,32 +231,6 @@
       "西武",
       "H",
       "L"
-    ]
-  },
-  {
-    "id": "npb-2026-0702-01-db-c",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "橫濱DeNA VS 廣島鯉魚",
-    "matchup": "橫濱DeNA VS 廣島鯉魚",
-    "startTime": "2026-07-02T18:15:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "橫濱DeNA",
-      "廣島鯉魚",
-      "DB",
-      "C"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "橫濱DeNA",
-      "廣島鯉魚",
-      "DB",
-      "C"
     ]
   },
   {
@@ -870,58 +390,6 @@
     ]
   },
   {
-    "id": "npb-2026-0704-02-d-g",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "中日龍 VS 讀賣巨人",
-    "matchup": "中日龍 VS 讀賣巨人",
-    "startTime": "2026-07-04T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "中日龍",
-      "讀賣巨人",
-      "D",
-      "G"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "中日龍",
-      "讀賣巨人",
-      "D",
-      "G"
-    ]
-  },
-  {
-    "id": "npb-2026-0704-06-h-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀 VS 羅德",
-    "matchup": "軟銀 VS 羅德",
-    "startTime": "2026-07-04T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
-    ]
-  },
-  {
     "id": "npb-2026-0704-01-s-db",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -945,6 +413,32 @@
       "橫濱DeNA",
       "S",
       "DB"
+    ]
+  },
+  {
+    "id": "npb-2026-0704-02-d-g",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "中日龍 VS 讀賣巨人",
+    "matchup": "中日龍 VS 讀賣巨人",
+    "startTime": "2026-07-04T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "中日龍",
+      "讀賣巨人",
+      "D",
+      "G"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "中日龍",
+      "讀賣巨人",
+      "D",
+      "G"
     ]
   },
   {
@@ -1026,6 +520,58 @@
     ]
   },
   {
+    "id": "npb-2026-0704-06-h-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "軟銀 VS 羅德",
+    "matchup": "軟銀 VS 羅德",
+    "startTime": "2026-07-04T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
+    ]
+  },
+  {
+    "id": "npb-2026-0705-01-s-db",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "養樂多燕子 VS 橫濱DeNA",
+    "matchup": "養樂多燕子 VS 橫濱DeNA",
+    "startTime": "2026-07-05T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "養樂多燕子",
+      "橫濱DeNA",
+      "S",
+      "DB"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "養樂多燕子",
+      "橫濱DeNA",
+      "S",
+      "DB"
+    ]
+  },
+  {
     "id": "npb-2026-0705-02-d-g",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -1052,29 +598,29 @@
     ]
   },
   {
-    "id": "npb-2026-0705-06-h-m",
+    "id": "npb-2026-0705-03-t-c",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "軟銀 VS 羅德",
-    "matchup": "軟銀 VS 羅德",
-    "startTime": "2026-07-05T13:30:00+09:00",
+    "title": "阪神 VS 廣島鯉魚",
+    "matchup": "阪神 VS 廣島鯉魚",
+    "startTime": "2026-07-05T18:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
+      "阪神",
+      "廣島鯉魚",
+      "T",
+      "C"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
+      "阪神",
+      "廣島鯉魚",
+      "T",
+      "C"
     ]
   },
   {
@@ -1130,55 +676,29 @@
     ]
   },
   {
-    "id": "npb-2026-0705-01-s-db",
+    "id": "npb-2026-0705-06-h-m",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "養樂多燕子 VS 橫濱DeNA",
-    "matchup": "養樂多燕子 VS 橫濱DeNA",
-    "startTime": "2026-07-05T18:00:00+09:00",
+    "title": "軟銀 VS 羅德",
+    "matchup": "軟銀 VS 羅德",
+    "startTime": "2026-07-05T13:30:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "養樂多燕子",
-      "橫濱DeNA",
-      "S",
-      "DB"
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "養樂多燕子",
-      "橫濱DeNA",
-      "S",
-      "DB"
-    ]
-  },
-  {
-    "id": "npb-2026-0705-03-t-c",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "阪神 VS 廣島鯉魚",
-    "matchup": "阪神 VS 廣島鯉魚",
-    "startTime": "2026-07-05T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "阪神",
-      "廣島鯉魚",
-      "T",
-      "C"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "阪神",
-      "廣島鯉魚",
-      "T",
-      "C"
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
     ]
   },
   {
@@ -1208,6 +728,32 @@
     ]
   },
   {
+    "id": "npb-2026-0707-02-db-d",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "橫濱DeNA VS 中日龍",
+    "matchup": "橫濱DeNA VS 中日龍",
+    "startTime": "2026-07-07T18:15:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
+    ]
+  },
+  {
     "id": "npb-2026-0707-03-c-s",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -1231,6 +777,32 @@
       "養樂多燕子",
       "C",
       "S"
+    ]
+  },
+  {
+    "id": "npb-2026-0707-04-l-e",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 樂天",
+    "matchup": "西武 VS 樂天",
+    "startTime": "2026-07-07T18:30:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "樂天",
+      "L",
+      "E"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "樂天",
+      "L",
+      "E"
     ]
   },
   {
@@ -1286,58 +858,6 @@
     ]
   },
   {
-    "id": "npb-2026-0707-02-db-d",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "橫濱DeNA VS 中日龍",
-    "matchup": "橫濱DeNA VS 中日龍",
-    "startTime": "2026-07-07T18:15:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "橫濱DeNA",
-      "中日龍",
-      "DB",
-      "D"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "橫濱DeNA",
-      "中日龍",
-      "DB",
-      "D"
-    ]
-  },
-  {
-    "id": "npb-2026-0707-04-l-e",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 樂天",
-    "matchup": "西武 VS 樂天",
-    "startTime": "2026-07-07T18:30:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "樂天",
-      "L",
-      "E"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "樂天",
-      "L",
-      "E"
-    ]
-  },
-  {
     "id": "npb-2026-0708-01-g-t",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -1364,6 +884,32 @@
     ]
   },
   {
+    "id": "npb-2026-0708-02-db-d",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "橫濱DeNA VS 中日龍",
+    "matchup": "橫濱DeNA VS 中日龍",
+    "startTime": "2026-07-08T18:15:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
+    ]
+  },
+  {
     "id": "npb-2026-0708-03-c-s",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -1387,6 +933,32 @@
       "養樂多燕子",
       "C",
       "S"
+    ]
+  },
+  {
+    "id": "npb-2026-0708-04-l-e",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 樂天",
+    "matchup": "西武 VS 樂天",
+    "startTime": "2026-07-08T18:30:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "樂天",
+      "L",
+      "E"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "樂天",
+      "L",
+      "E"
     ]
   },
   {
@@ -1442,58 +1014,6 @@
     ]
   },
   {
-    "id": "npb-2026-0708-02-db-d",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "橫濱DeNA VS 中日龍",
-    "matchup": "橫濱DeNA VS 中日龍",
-    "startTime": "2026-07-08T18:15:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "橫濱DeNA",
-      "中日龍",
-      "DB",
-      "D"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "橫濱DeNA",
-      "中日龍",
-      "DB",
-      "D"
-    ]
-  },
-  {
-    "id": "npb-2026-0708-04-l-e",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 樂天",
-    "matchup": "西武 VS 樂天",
-    "startTime": "2026-07-08T18:30:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "樂天",
-      "L",
-      "E"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "樂天",
-      "L",
-      "E"
-    ]
-  },
-  {
     "id": "npb-2026-0709-01-g-t",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -1517,6 +1037,32 @@
       "阪神",
       "G",
       "T"
+    ]
+  },
+  {
+    "id": "npb-2026-0709-02-db-d",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "橫濱DeNA VS 中日龍",
+    "matchup": "橫濱DeNA VS 中日龍",
+    "startTime": "2026-07-09T18:15:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
     ]
   },
   {
@@ -1546,29 +1092,29 @@
     ]
   },
   {
-    "id": "npb-2026-0709-02-db-d",
+    "id": "npb-2026-0710-01-db-g",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "橫濱DeNA VS 中日龍",
-    "matchup": "橫濱DeNA VS 中日龍",
-    "startTime": "2026-07-09T18:15:00+09:00",
+    "title": "橫濱DeNA VS 讀賣巨人",
+    "matchup": "橫濱DeNA VS 讀賣巨人",
+    "startTime": "2026-07-10T18:15:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
       "橫濱DeNA",
-      "中日龍",
+      "讀賣巨人",
       "DB",
-      "D"
+      "G"
     ],
     "tags": [
       "NPB",
       "日本職棒",
       "橫濱DeNA",
-      "中日龍",
+      "讀賣巨人",
       "DB",
-      "D"
+      "G"
     ]
   },
   {
@@ -1702,13 +1248,13 @@
     ]
   },
   {
-    "id": "npb-2026-0710-01-db-g",
+    "id": "npb-2026-0711-01-db-g",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "橫濱DeNA VS 讀賣巨人",
     "matchup": "橫濱DeNA VS 讀賣巨人",
-    "startTime": "2026-07-10T18:15:00+09:00",
+    "startTime": "2026-07-11T18:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -1754,58 +1300,6 @@
     ]
   },
   {
-    "id": "npb-2026-0711-04-f-l",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 西武",
-    "matchup": "日本火腿 VS 西武",
-    "startTime": "2026-07-11T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "西武",
-      "F",
-      "L"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "西武",
-      "F",
-      "L"
-    ]
-  },
-  {
-    "id": "npb-2026-0711-01-db-g",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "橫濱DeNA VS 讀賣巨人",
-    "matchup": "橫濱DeNA VS 讀賣巨人",
-    "startTime": "2026-07-11T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "橫濱DeNA",
-      "讀賣巨人",
-      "DB",
-      "G"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "橫濱DeNA",
-      "讀賣巨人",
-      "DB",
-      "G"
-    ]
-  },
-  {
     "id": "npb-2026-0711-03-t-s",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -1829,6 +1323,32 @@
       "養樂多燕子",
       "T",
       "S"
+    ]
+  },
+  {
+    "id": "npb-2026-0711-04-f-l",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 西武",
+    "matchup": "日本火腿 VS 西武",
+    "startTime": "2026-07-11T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "西武",
+      "F",
+      "L"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "西武",
+      "F",
+      "L"
     ]
   },
   {
@@ -1884,29 +1404,29 @@
     ]
   },
   {
-    "id": "npb-2026-0712-04-f-l",
+    "id": "npb-2026-0712-01-db-g",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "日本火腿 VS 西武",
-    "matchup": "日本火腿 VS 西武",
-    "startTime": "2026-07-12T13:00:00+09:00",
+    "title": "橫濱DeNA VS 讀賣巨人",
+    "matchup": "橫濱DeNA VS 讀賣巨人",
+    "startTime": "2026-07-12T18:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "日本火腿",
-      "西武",
-      "F",
-      "L"
+      "橫濱DeNA",
+      "讀賣巨人",
+      "DB",
+      "G"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "日本火腿",
-      "西武",
-      "F",
-      "L"
+      "橫濱DeNA",
+      "讀賣巨人",
+      "DB",
+      "G"
     ]
   },
   {
@@ -1936,29 +1456,55 @@
     ]
   },
   {
-    "id": "npb-2026-0712-06-h-e",
+    "id": "npb-2026-0712-03-t-s",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "軟銀 VS 樂天",
-    "matchup": "軟銀 VS 樂天",
-    "startTime": "2026-07-12T14:00:00+09:00",
+    "title": "阪神 VS 養樂多燕子",
+    "matchup": "阪神 VS 養樂多燕子",
+    "startTime": "2026-07-12T18:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "軟銀",
-      "樂天",
-      "H",
-      "E"
+      "阪神",
+      "養樂多燕子",
+      "T",
+      "S"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "軟銀",
-      "樂天",
-      "H",
-      "E"
+      "阪神",
+      "養樂多燕子",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "id": "npb-2026-0712-04-f-l",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 西武",
+    "matchup": "日本火腿 VS 西武",
+    "startTime": "2026-07-12T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "西武",
+      "F",
+      "L"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "西武",
+      "F",
+      "L"
     ]
   },
   {
@@ -1988,81 +1534,29 @@
     ]
   },
   {
-    "id": "npb-2026-0712-01-db-g",
+    "id": "npb-2026-0712-06-h-e",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "橫濱DeNA VS 讀賣巨人",
-    "matchup": "橫濱DeNA VS 讀賣巨人",
-    "startTime": "2026-07-12T18:00:00+09:00",
+    "title": "軟銀 VS 樂天",
+    "matchup": "軟銀 VS 樂天",
+    "startTime": "2026-07-12T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "橫濱DeNA",
-      "讀賣巨人",
-      "DB",
-      "G"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "橫濱DeNA",
-      "讀賣巨人",
-      "DB",
-      "G"
-    ]
-  },
-  {
-    "id": "npb-2026-0712-03-t-s",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "阪神 VS 養樂多燕子",
-    "matchup": "阪神 VS 養樂多燕子",
-    "startTime": "2026-07-12T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "阪神",
-      "養樂多燕子",
-      "T",
-      "S"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "阪神",
-      "養樂多燕子",
-      "T",
-      "S"
-    ]
-  },
-  {
-    "id": "npb-2026-0714-04-f-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 軟銀",
-    "matchup": "日本火腿 VS 軟銀",
-    "startTime": "2026-07-14T13:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
       "軟銀",
-      "F",
-      "H"
+      "樂天",
+      "H",
+      "E"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "日本火腿",
       "軟銀",
-      "F",
-      "H"
+      "樂天",
+      "H",
+      "E"
     ]
   },
   {
@@ -2144,6 +1638,32 @@
     ]
   },
   {
+    "id": "npb-2026-0714-04-f-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 軟銀",
+    "matchup": "日本火腿 VS 軟銀",
+    "startTime": "2026-07-14T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0714-05-e-b",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -2193,32 +1713,6 @@
       "羅德",
       "L",
       "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0715-04-f-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 軟銀",
-    "matchup": "日本火腿 VS 軟銀",
-    "startTime": "2026-07-15T13:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
     ]
   },
   {
@@ -2300,6 +1794,32 @@
     ]
   },
   {
+    "id": "npb-2026-0715-04-f-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 軟銀",
+    "matchup": "日本火腿 VS 軟銀",
+    "startTime": "2026-07-15T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0715-05-e-b",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -2352,32 +1872,6 @@
     ]
   },
   {
-    "id": "npb-2026-0716-03-f-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 軟銀",
-    "matchup": "日本火腿 VS 軟銀",
-    "startTime": "2026-07-16T13:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
-    ]
-  },
-  {
     "id": "npb-2026-0716-01-s-g",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -2427,6 +1921,32 @@
       "阪神",
       "D",
       "T"
+    ]
+  },
+  {
+    "id": "npb-2026-0716-03-f-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 軟銀",
+    "matchup": "日本火腿 VS 軟銀",
+    "startTime": "2026-07-16T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
     ]
   },
   {
@@ -2586,32 +2106,6 @@
     ]
   },
   {
-    "id": "npb-2026-0718-06-b-f",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "歐力士 VS 日本火腿",
-    "matchup": "歐力士 VS 日本火腿",
-    "startTime": "2026-07-18T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "歐力士",
-      "日本火腿",
-      "B",
-      "F"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "歐力士",
-      "日本火腿",
-      "B",
-      "F"
-    ]
-  },
-  {
     "id": "npb-2026-0718-02-db-s",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -2716,13 +2210,13 @@
     ]
   },
   {
-    "id": "npb-2026-0719-06-b-f",
+    "id": "npb-2026-0718-06-b-f",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "歐力士 VS 日本火腿",
     "matchup": "歐力士 VS 日本火腿",
-    "startTime": "2026-07-19T13:00:00+09:00",
+    "startTime": "2026-07-18T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -2872,13 +2366,13 @@
     ]
   },
   {
-    "id": "npb-2026-0720-06-b-f",
+    "id": "npb-2026-0719-06-b-f",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "歐力士 VS 日本火腿",
     "matchup": "歐力士 VS 日本火腿",
-    "startTime": "2026-07-20T13:00:00+09:00",
+    "startTime": "2026-07-19T13:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -2895,58 +2389,6 @@
       "日本火腿",
       "B",
       "F"
-    ]
-  },
-  {
-    "id": "npb-2026-0720-04-e-l",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天 VS 西武",
-    "matchup": "樂天 VS 西武",
-    "startTime": "2026-07-20T16:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "樂天",
-      "西武",
-      "E",
-      "L"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "樂天",
-      "西武",
-      "E",
-      "L"
-    ]
-  },
-  {
-    "id": "npb-2026-0720-05-m-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "羅德 VS 軟銀",
-    "matchup": "羅德 VS 軟銀",
-    "startTime": "2026-07-20T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "羅德",
-      "軟銀",
-      "M",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "羅德",
-      "軟銀",
-      "M",
-      "H"
     ]
   },
   {
@@ -3025,6 +2467,84 @@
       "橫濱DeNA",
       "T",
       "DB"
+    ]
+  },
+  {
+    "id": "npb-2026-0720-04-e-l",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "樂天 VS 西武",
+    "matchup": "樂天 VS 西武",
+    "startTime": "2026-07-20T16:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "樂天",
+      "西武",
+      "E",
+      "L"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "樂天",
+      "西武",
+      "E",
+      "L"
+    ]
+  },
+  {
+    "id": "npb-2026-0720-05-m-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "羅德 VS 軟銀",
+    "matchup": "羅德 VS 軟銀",
+    "startTime": "2026-07-20T17:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "羅德",
+      "軟銀",
+      "M",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "羅德",
+      "軟銀",
+      "M",
+      "H"
+    ]
+  },
+  {
+    "id": "npb-2026-0720-06-b-f",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "歐力士 VS 日本火腿",
+    "matchup": "歐力士 VS 日本火腿",
+    "startTime": "2026-07-20T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "歐力士",
+      "日本火腿",
+      "B",
+      "F"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "歐力士",
+      "日本火腿",
+      "B",
+      "F"
     ]
   },
   {
@@ -3496,58 +3016,6 @@
     ]
   },
   {
-    "id": "npb-2026-0725-04-f-e",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 樂天",
-    "matchup": "日本火腿 VS 樂天",
-    "startTime": "2026-07-25T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
-    ]
-  },
-  {
-    "id": "npb-2026-0725-06-m-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "羅德 VS 歐力士",
-    "matchup": "羅德 VS 歐力士",
-    "startTime": "2026-07-25T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "羅德",
-      "歐力士",
-      "M",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "羅德",
-      "歐力士",
-      "M",
-      "B"
-    ]
-  },
-  {
     "id": "npb-2026-0725-01-s-c",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -3626,6 +3094,32 @@
     ]
   },
   {
+    "id": "npb-2026-0725-04-f-e",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 樂天",
+    "matchup": "日本火腿 VS 樂天",
+    "startTime": "2026-07-25T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
+    ]
+  },
+  {
     "id": "npb-2026-0725-05-l-h",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -3652,39 +3146,13 @@
     ]
   },
   {
-    "id": "npb-2026-0726-04-f-e",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 樂天",
-    "matchup": "日本火腿 VS 樂天",
-    "startTime": "2026-07-26T13:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
-    ]
-  },
-  {
-    "id": "npb-2026-0726-06-m-b",
+    "id": "npb-2026-0725-06-m-b",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "羅德 VS 歐力士",
     "matchup": "羅德 VS 歐力士",
-    "startTime": "2026-07-26T13:00:00+09:00",
+    "startTime": "2026-07-25T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -3701,58 +3169,6 @@
       "歐力士",
       "M",
       "B"
-    ]
-  },
-  {
-    "id": "npb-2026-0726-02-d-db",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "中日龍 VS 橫濱DeNA",
-    "matchup": "中日龍 VS 橫濱DeNA",
-    "startTime": "2026-07-26T13:30:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "中日龍",
-      "橫濱DeNA",
-      "D",
-      "DB"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "中日龍",
-      "橫濱DeNA",
-      "D",
-      "DB"
-    ]
-  },
-  {
-    "id": "npb-2026-0726-05-l-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 軟銀",
-    "matchup": "西武 VS 軟銀",
-    "startTime": "2026-07-26T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "軟銀",
-      "L",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "軟銀",
-      "L",
-      "H"
     ]
   },
   {
@@ -3782,6 +3198,32 @@
     ]
   },
   {
+    "id": "npb-2026-0726-02-d-db",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "中日龍 VS 橫濱DeNA",
+    "matchup": "中日龍 VS 橫濱DeNA",
+    "startTime": "2026-07-26T13:30:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "中日龍",
+      "橫濱DeNA",
+      "D",
+      "DB"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "中日龍",
+      "橫濱DeNA",
+      "D",
+      "DB"
+    ]
+  },
+  {
     "id": "npb-2026-0726-03-t-g",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -3805,6 +3247,84 @@
       "讀賣巨人",
       "T",
       "G"
+    ]
+  },
+  {
+    "id": "npb-2026-0726-04-f-e",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 樂天",
+    "matchup": "日本火腿 VS 樂天",
+    "startTime": "2026-07-26T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
+    ]
+  },
+  {
+    "id": "npb-2026-0726-05-l-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 軟銀",
+    "matchup": "西武 VS 軟銀",
+    "startTime": "2026-07-26T17:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "軟銀",
+      "L",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "軟銀",
+      "L",
+      "H"
+    ]
+  },
+  {
+    "id": "npb-2026-0726-06-m-b",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "羅德 VS 歐力士",
+    "matchup": "羅德 VS 歐力士",
+    "startTime": "2026-07-26T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "羅德",
+      "歐力士",
+      "M",
+      "B"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "羅德",
+      "歐力士",
+      "M",
+      "B"
     ]
   },
   {
@@ -3964,58 +3484,6 @@
     ]
   },
   {
-    "id": "npb-2026-0801-04-f-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 羅德",
-    "matchup": "日本火腿 VS 羅德",
-    "startTime": "2026-08-01T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "羅德",
-      "F",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "羅德",
-      "F",
-      "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0801-06-l-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 歐力士",
-    "matchup": "西武 VS 歐力士",
-    "startTime": "2026-08-01T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "歐力士",
-      "L",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "歐力士",
-      "L",
-      "B"
-    ]
-  },
-  {
     "id": "npb-2026-0801-01-g-db",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -4094,6 +3562,32 @@
     ]
   },
   {
+    "id": "npb-2026-0801-04-f-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 羅德",
+    "matchup": "日本火腿 VS 羅德",
+    "startTime": "2026-08-01T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "羅德",
+      "F",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "羅德",
+      "F",
+      "M"
+    ]
+  },
+  {
     "id": "npb-2026-0801-05-e-h",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -4120,29 +3614,29 @@
     ]
   },
   {
-    "id": "npb-2026-0802-04-f-m",
+    "id": "npb-2026-0801-06-l-b",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "日本火腿 VS 羅德",
-    "matchup": "日本火腿 VS 羅德",
-    "startTime": "2026-08-02T13:00:00+09:00",
+    "title": "西武 VS 歐力士",
+    "matchup": "西武 VS 歐力士",
+    "startTime": "2026-08-01T17:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "日本火腿",
-      "羅德",
-      "F",
-      "M"
+      "西武",
+      "歐力士",
+      "L",
+      "B"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "日本火腿",
-      "羅德",
-      "F",
-      "M"
+      "西武",
+      "歐力士",
+      "L",
+      "B"
     ]
   },
   {
@@ -4169,58 +3663,6 @@
       "養樂多燕子",
       "G",
       "S"
-    ]
-  },
-  {
-    "id": "npb-2026-0802-05-e-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天 VS 軟銀",
-    "matchup": "樂天 VS 軟銀",
-    "startTime": "2026-08-02T16:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
-    ]
-  },
-  {
-    "id": "npb-2026-0802-06-l-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 歐力士",
-    "matchup": "西武 VS 歐力士",
-    "startTime": "2026-08-02T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "歐力士",
-      "L",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "歐力士",
-      "L",
-      "B"
     ]
   },
   {
@@ -4273,6 +3715,84 @@
       "中日龍",
       "T",
       "D"
+    ]
+  },
+  {
+    "id": "npb-2026-0802-04-f-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 羅德",
+    "matchup": "日本火腿 VS 羅德",
+    "startTime": "2026-08-02T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "羅德",
+      "F",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "羅德",
+      "F",
+      "M"
+    ]
+  },
+  {
+    "id": "npb-2026-0802-05-e-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "樂天 VS 軟銀",
+    "matchup": "樂天 VS 軟銀",
+    "startTime": "2026-08-02T16:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": "npb-2026-0802-06-l-b",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 歐力士",
+    "matchup": "西武 VS 歐力士",
+    "startTime": "2026-08-02T17:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "歐力士",
+      "L",
+      "B"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "歐力士",
+      "L",
+      "B"
     ]
   },
   {
@@ -4900,32 +4420,6 @@
     ]
   },
   {
-    "id": "npb-2026-0808-04-f-e",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 樂天",
-    "matchup": "日本火腿 VS 樂天",
-    "startTime": "2026-08-08T15:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
-    ]
-  },
-  {
     "id": "npb-2026-0808-02-db-c",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -4975,6 +4469,32 @@
       "中日龍",
       "T",
       "D"
+    ]
+  },
+  {
+    "id": "npb-2026-0808-04-f-e",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 樂天",
+    "matchup": "日本火腿 VS 樂天",
+    "startTime": "2026-08-08T15:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
     ]
   },
   {
@@ -5056,6 +4576,58 @@
     ]
   },
   {
+    "id": "npb-2026-0809-02-db-c",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "橫濱DeNA VS 廣島鯉魚",
+    "matchup": "橫濱DeNA VS 廣島鯉魚",
+    "startTime": "2026-08-09T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "橫濱DeNA",
+      "廣島鯉魚",
+      "DB",
+      "C"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "橫濱DeNA",
+      "廣島鯉魚",
+      "DB",
+      "C"
+    ]
+  },
+  {
+    "id": "npb-2026-0809-03-t-d",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "阪神 VS 中日龍",
+    "matchup": "阪神 VS 中日龍",
+    "startTime": "2026-08-09T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "阪神",
+      "中日龍",
+      "T",
+      "D"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "阪神",
+      "中日龍",
+      "T",
+      "D"
+    ]
+  },
+  {
     "id": "npb-2026-0809-04-f-e",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -5134,58 +4706,6 @@
     ]
   },
   {
-    "id": "npb-2026-0809-02-db-c",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "橫濱DeNA VS 廣島鯉魚",
-    "matchup": "橫濱DeNA VS 廣島鯉魚",
-    "startTime": "2026-08-09T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "橫濱DeNA",
-      "廣島鯉魚",
-      "DB",
-      "C"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "橫濱DeNA",
-      "廣島鯉魚",
-      "DB",
-      "C"
-    ]
-  },
-  {
-    "id": "npb-2026-0809-03-t-d",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "阪神 VS 中日龍",
-    "matchup": "阪神 VS 中日龍",
-    "startTime": "2026-08-09T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "阪神",
-      "中日龍",
-      "T",
-      "D"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "阪神",
-      "中日龍",
-      "T",
-      "D"
-    ]
-  },
-  {
     "id": "npb-2026-0811-01-g-t",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -5209,6 +4729,32 @@
       "阪神",
       "G",
       "T"
+    ]
+  },
+  {
+    "id": "npb-2026-0811-02-s-c",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "養樂多燕子 VS 廣島鯉魚",
+    "matchup": "養樂多燕子 VS 廣島鯉魚",
+    "startTime": "2026-08-11T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "養樂多燕子",
+      "廣島鯉魚",
+      "S",
+      "C"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "養樂多燕子",
+      "廣島鯉魚",
+      "S",
+      "C"
     ]
   },
   {
@@ -5264,58 +4810,6 @@
     ]
   },
   {
-    "id": "npb-2026-0811-06-h-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀 VS 羅德",
-    "matchup": "軟銀 VS 羅德",
-    "startTime": "2026-08-11T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0811-02-s-c",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "養樂多燕子 VS 廣島鯉魚",
-    "matchup": "養樂多燕子 VS 廣島鯉魚",
-    "startTime": "2026-08-11T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "養樂多燕子",
-      "廣島鯉魚",
-      "S",
-      "C"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "養樂多燕子",
-      "廣島鯉魚",
-      "S",
-      "C"
-    ]
-  },
-  {
     "id": "npb-2026-0811-05-e-b",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -5339,6 +4833,32 @@
       "歐力士",
       "E",
       "B"
+    ]
+  },
+  {
+    "id": "npb-2026-0811-06-h-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "軟銀 VS 羅德",
+    "matchup": "軟銀 VS 羅德",
+    "startTime": "2026-08-11T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
     ]
   },
   {
@@ -5810,6 +5330,32 @@
     ]
   },
   {
+    "id": "npb-2026-0815-01-s-db",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "養樂多燕子 VS 橫濱DeNA",
+    "matchup": "養樂多燕子 VS 橫濱DeNA",
+    "startTime": "2026-08-15T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "養樂多燕子",
+      "橫濱DeNA",
+      "S",
+      "DB"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "養樂多燕子",
+      "橫濱DeNA",
+      "S",
+      "DB"
+    ]
+  },
+  {
     "id": "npb-2026-0815-02-d-g",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -5833,6 +5379,58 @@
       "讀賣巨人",
       "D",
       "G"
+    ]
+  },
+  {
+    "id": "npb-2026-0815-03-c-t",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "廣島鯉魚 VS 阪神",
+    "matchup": "廣島鯉魚 VS 阪神",
+    "startTime": "2026-08-15T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "廣島鯉魚",
+      "阪神",
+      "C",
+      "T"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "廣島鯉魚",
+      "阪神",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "id": "npb-2026-0815-04-l-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 羅德",
+    "matchup": "西武 VS 羅德",
+    "startTime": "2026-08-15T17:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "羅德",
+      "L",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "羅德",
+      "L",
+      "M"
     ]
   },
   {
@@ -5888,39 +5486,13 @@
     ]
   },
   {
-    "id": "npb-2026-0815-04-l-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 羅德",
-    "matchup": "西武 VS 羅德",
-    "startTime": "2026-08-15T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "羅德",
-      "L",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "羅德",
-      "L",
-      "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0815-01-s-db",
+    "id": "npb-2026-0816-01-s-db",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "養樂多燕子 VS 橫濱DeNA",
     "matchup": "養樂多燕子 VS 橫濱DeNA",
-    "startTime": "2026-08-15T18:00:00+09:00",
+    "startTime": "2026-08-16T18:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -5940,13 +5512,39 @@
     ]
   },
   {
-    "id": "npb-2026-0815-03-c-t",
+    "id": "npb-2026-0816-02-d-g",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "中日龍 VS 讀賣巨人",
+    "matchup": "中日龍 VS 讀賣巨人",
+    "startTime": "2026-08-16T13:30:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "中日龍",
+      "讀賣巨人",
+      "D",
+      "G"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "中日龍",
+      "讀賣巨人",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": "npb-2026-0816-03-c-t",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "廣島鯉魚 VS 阪神",
     "matchup": "廣島鯉魚 VS 阪神",
-    "startTime": "2026-08-15T18:00:00+09:00",
+    "startTime": "2026-08-16T18:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -5963,6 +5561,32 @@
       "阪神",
       "C",
       "T"
+    ]
+  },
+  {
+    "id": "npb-2026-0816-04-l-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 羅德",
+    "matchup": "西武 VS 羅德",
+    "startTime": "2026-08-16T17:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "羅德",
+      "L",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "羅德",
+      "L",
+      "M"
     ]
   },
   {
@@ -6015,136 +5639,6 @@
       "樂天",
       "H",
       "E"
-    ]
-  },
-  {
-    "id": "npb-2026-0816-02-d-g",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "中日龍 VS 讀賣巨人",
-    "matchup": "中日龍 VS 讀賣巨人",
-    "startTime": "2026-08-16T13:30:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "中日龍",
-      "讀賣巨人",
-      "D",
-      "G"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "中日龍",
-      "讀賣巨人",
-      "D",
-      "G"
-    ]
-  },
-  {
-    "id": "npb-2026-0816-04-l-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 羅德",
-    "matchup": "西武 VS 羅德",
-    "startTime": "2026-08-16T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "羅德",
-      "L",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "羅德",
-      "L",
-      "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0816-01-s-db",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "養樂多燕子 VS 橫濱DeNA",
-    "matchup": "養樂多燕子 VS 橫濱DeNA",
-    "startTime": "2026-08-16T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "養樂多燕子",
-      "橫濱DeNA",
-      "S",
-      "DB"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "養樂多燕子",
-      "橫濱DeNA",
-      "S",
-      "DB"
-    ]
-  },
-  {
-    "id": "npb-2026-0816-03-c-t",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "廣島鯉魚 VS 阪神",
-    "matchup": "廣島鯉魚 VS 阪神",
-    "startTime": "2026-08-16T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "廣島鯉魚",
-      "阪神",
-      "C",
-      "T"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "廣島鯉魚",
-      "阪神",
-      "C",
-      "T"
-    ]
-  },
-  {
-    "id": "npb-2026-0818-04-f-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 軟銀",
-    "matchup": "日本火腿 VS 軟銀",
-    "startTime": "2026-08-18T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
     ]
   },
   {
@@ -6226,6 +5720,32 @@
     ]
   },
   {
+    "id": "npb-2026-0818-04-f-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 軟銀",
+    "matchup": "日本火腿 VS 軟銀",
+    "startTime": "2026-08-18T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0818-05-e-m",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -6275,32 +5795,6 @@
       "歐力士",
       "L",
       "B"
-    ]
-  },
-  {
-    "id": "npb-2026-0819-04-f-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 軟銀",
-    "matchup": "日本火腿 VS 軟銀",
-    "startTime": "2026-08-19T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
     ]
   },
   {
@@ -6382,6 +5876,32 @@
     ]
   },
   {
+    "id": "npb-2026-0819-04-f-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 軟銀",
+    "matchup": "日本火腿 VS 軟銀",
+    "startTime": "2026-08-19T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0819-05-e-m",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -6431,32 +5951,6 @@
       "歐力士",
       "L",
       "B"
-    ]
-  },
-  {
-    "id": "npb-2026-0820-04-f-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 軟銀",
-    "matchup": "日本火腿 VS 軟銀",
-    "startTime": "2026-08-20T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "軟銀",
-      "F",
-      "H"
     ]
   },
   {
@@ -6535,6 +6029,32 @@
       "中日龍",
       "C",
       "D"
+    ]
+  },
+  {
+    "id": "npb-2026-0820-04-f-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 軟銀",
+    "matchup": "日本火腿 VS 軟銀",
+    "startTime": "2026-08-20T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "軟銀",
+      "F",
+      "H"
     ]
   },
   {
@@ -6746,58 +6266,6 @@
     ]
   },
   {
-    "id": "npb-2026-0822-03-d-s",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "中日龍 VS 養樂多燕子",
-    "matchup": "中日龍 VS 養樂多燕子",
-    "startTime": "2026-08-22T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "中日龍",
-      "養樂多燕子",
-      "D",
-      "S"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "中日龍",
-      "養樂多燕子",
-      "D",
-      "S"
-    ]
-  },
-  {
-    "id": "npb-2026-0822-06-h-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀 VS 歐力士",
-    "matchup": "軟銀 VS 歐力士",
-    "startTime": "2026-08-22T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "軟銀",
-      "歐力士",
-      "H",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "軟銀",
-      "歐力士",
-      "H",
-      "B"
-    ]
-  },
-  {
     "id": "npb-2026-0822-02-db-t",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -6821,6 +6289,32 @@
       "阪神",
       "DB",
       "T"
+    ]
+  },
+  {
+    "id": "npb-2026-0822-03-d-s",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "中日龍 VS 養樂多燕子",
+    "matchup": "中日龍 VS 養樂多燕子",
+    "startTime": "2026-08-22T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "中日龍",
+      "養樂多燕子",
+      "D",
+      "S"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "中日龍",
+      "養樂多燕子",
+      "D",
+      "S"
     ]
   },
   {
@@ -6876,13 +6370,13 @@
     ]
   },
   {
-    "id": "npb-2026-0823-06-h-b",
+    "id": "npb-2026-0822-06-h-b",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "軟銀 VS 歐力士",
     "matchup": "軟銀 VS 歐力士",
-    "startTime": "2026-08-23T13:00:00+09:00",
+    "startTime": "2026-08-22T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -6899,32 +6393,6 @@
       "歐力士",
       "H",
       "B"
-    ]
-  },
-  {
-    "id": "npb-2026-0823-03-d-s",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "中日龍 VS 養樂多燕子",
-    "matchup": "中日龍 VS 養樂多燕子",
-    "startTime": "2026-08-23T13:30:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "中日龍",
-      "養樂多燕子",
-      "D",
-      "S"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "中日龍",
-      "養樂多燕子",
-      "D",
-      "S"
     ]
   },
   {
@@ -6951,6 +6419,58 @@
       "廣島鯉魚",
       "G",
       "C"
+    ]
+  },
+  {
+    "id": "npb-2026-0823-02-db-t",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "橫濱DeNA VS 阪神",
+    "matchup": "橫濱DeNA VS 阪神",
+    "startTime": "2026-08-23T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "橫濱DeNA",
+      "阪神",
+      "DB",
+      "T"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "橫濱DeNA",
+      "阪神",
+      "DB",
+      "T"
+    ]
+  },
+  {
+    "id": "npb-2026-0823-03-d-s",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "中日龍 VS 養樂多燕子",
+    "matchup": "中日龍 VS 養樂多燕子",
+    "startTime": "2026-08-23T13:30:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "中日龍",
+      "養樂多燕子",
+      "D",
+      "S"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "中日龍",
+      "養樂多燕子",
+      "D",
+      "S"
     ]
   },
   {
@@ -7006,29 +6526,29 @@
     ]
   },
   {
-    "id": "npb-2026-0823-02-db-t",
+    "id": "npb-2026-0823-06-h-b",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "橫濱DeNA VS 阪神",
-    "matchup": "橫濱DeNA VS 阪神",
-    "startTime": "2026-08-23T18:00:00+09:00",
+    "title": "軟銀 VS 歐力士",
+    "matchup": "軟銀 VS 歐力士",
+    "startTime": "2026-08-23T13:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "橫濱DeNA",
-      "阪神",
-      "DB",
-      "T"
+      "軟銀",
+      "歐力士",
+      "H",
+      "B"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "橫濱DeNA",
-      "阪神",
-      "DB",
-      "T"
+      "軟銀",
+      "歐力士",
+      "H",
+      "B"
     ]
   },
   {
@@ -7630,84 +7150,6 @@
     ]
   },
   {
-    "id": "npb-2026-0829-04-f-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 羅德",
-    "matchup": "日本火腿 VS 羅德",
-    "startTime": "2026-08-29T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "羅德",
-      "F",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "羅德",
-      "F",
-      "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0829-06-b-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "歐力士 VS 軟銀",
-    "matchup": "歐力士 VS 軟銀",
-    "startTime": "2026-08-29T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "歐力士",
-      "軟銀",
-      "B",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "歐力士",
-      "軟銀",
-      "B",
-      "H"
-    ]
-  },
-  {
-    "id": "npb-2026-0829-05-l-e",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 樂天",
-    "matchup": "西武 VS 樂天",
-    "startTime": "2026-08-29T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "樂天",
-      "L",
-      "E"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "樂天",
-      "L",
-      "E"
-    ]
-  },
-  {
     "id": "npb-2026-0829-01-db-d",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -7786,13 +7228,13 @@
     ]
   },
   {
-    "id": "npb-2026-0830-04-f-m",
+    "id": "npb-2026-0829-04-f-m",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "日本火腿 VS 羅德",
     "matchup": "日本火腿 VS 羅德",
-    "startTime": "2026-08-30T13:00:00+09:00",
+    "startTime": "2026-08-29T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -7812,39 +7254,13 @@
     ]
   },
   {
-    "id": "npb-2026-0830-06-b-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "歐力士 VS 軟銀",
-    "matchup": "歐力士 VS 軟銀",
-    "startTime": "2026-08-30T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "歐力士",
-      "軟銀",
-      "B",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "歐力士",
-      "軟銀",
-      "B",
-      "H"
-    ]
-  },
-  {
-    "id": "npb-2026-0830-05-l-e",
+    "id": "npb-2026-0829-05-l-e",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "西武 VS 樂天",
     "matchup": "西武 VS 樂天",
-    "startTime": "2026-08-30T17:00:00+09:00",
+    "startTime": "2026-08-29T17:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -7861,6 +7277,32 @@
       "樂天",
       "L",
       "E"
+    ]
+  },
+  {
+    "id": "npb-2026-0829-06-b-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "歐力士 VS 軟銀",
+    "matchup": "歐力士 VS 軟銀",
+    "startTime": "2026-08-29T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "歐力士",
+      "軟銀",
+      "B",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "歐力士",
+      "軟銀",
+      "B",
+      "H"
     ]
   },
   {
@@ -7939,6 +7381,84 @@
       "養樂多燕子",
       "C",
       "S"
+    ]
+  },
+  {
+    "id": "npb-2026-0830-04-f-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 羅德",
+    "matchup": "日本火腿 VS 羅德",
+    "startTime": "2026-08-30T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "羅德",
+      "F",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "羅德",
+      "F",
+      "M"
+    ]
+  },
+  {
+    "id": "npb-2026-0830-05-l-e",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 樂天",
+    "matchup": "西武 VS 樂天",
+    "startTime": "2026-08-30T17:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "樂天",
+      "L",
+      "E"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "樂天",
+      "L",
+      "E"
+    ]
+  },
+  {
+    "id": "npb-2026-0830-06-b-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "歐力士 VS 軟銀",
+    "matchup": "歐力士 VS 軟銀",
+    "startTime": "2026-08-30T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "歐力士",
+      "軟銀",
+      "B",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "歐力士",
+      "軟銀",
+      "B",
+      "H"
     ]
   },
   {
@@ -8280,32 +7800,6 @@
     ]
   },
   {
-    "id": "npb-2026-0904-04-b-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "歐力士 VS 羅德",
-    "matchup": "歐力士 VS 羅德",
-    "startTime": "2026-09-04T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "歐力士",
-      "羅德",
-      "B",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "歐力士",
-      "羅德",
-      "B",
-      "M"
-    ]
-  },
-  {
     "id": "npb-2026-0904-01-s-d",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -8384,6 +7878,32 @@
     ]
   },
   {
+    "id": "npb-2026-0904-04-b-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "歐力士 VS 羅德",
+    "matchup": "歐力士 VS 羅德",
+    "startTime": "2026-09-04T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "歐力士",
+      "羅德",
+      "B",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "歐力士",
+      "羅德",
+      "B",
+      "M"
+    ]
+  },
+  {
     "id": "npb-2026-0904-05-h-l",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -8391,58 +7911,6 @@
     "title": "軟銀 VS 西武",
     "matchup": "軟銀 VS 西武",
     "startTime": "2026-09-04T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "軟銀",
-      "西武",
-      "H",
-      "L"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "軟銀",
-      "西武",
-      "H",
-      "L"
-    ]
-  },
-  {
-    "id": "npb-2026-0905-05-b-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "歐力士 VS 羅德",
-    "matchup": "歐力士 VS 羅德",
-    "startTime": "2026-09-05T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "歐力士",
-      "羅德",
-      "B",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "歐力士",
-      "羅德",
-      "B",
-      "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0905-06-h-l",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀 VS 西武",
-    "matchup": "軟銀 VS 西武",
-    "startTime": "2026-09-05T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -8566,13 +8034,13 @@
     ]
   },
   {
-    "id": "npb-2026-0906-05-b-m",
+    "id": "npb-2026-0905-05-b-m",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "歐力士 VS 羅德",
     "matchup": "歐力士 VS 羅德",
-    "startTime": "2026-09-06T13:00:00+09:00",
+    "startTime": "2026-09-05T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -8592,13 +8060,13 @@
     ]
   },
   {
-    "id": "npb-2026-0906-06-h-l",
+    "id": "npb-2026-0905-06-h-l",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
     "title": "軟銀 VS 西武",
     "matchup": "軟銀 VS 西武",
-    "startTime": "2026-09-06T13:00:00+09:00",
+    "startTime": "2026-09-05T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
@@ -8615,32 +8083,6 @@
       "西武",
       "H",
       "L"
-    ]
-  },
-  {
-    "id": "npb-2026-0906-04-e-f",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天 VS 日本火腿",
-    "matchup": "樂天 VS 日本火腿",
-    "startTime": "2026-09-06T16:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "樂天",
-      "日本火腿",
-      "E",
-      "F"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "樂天",
-      "日本火腿",
-      "E",
-      "F"
     ]
   },
   {
@@ -8719,6 +8161,84 @@
       "讀賣巨人",
       "C",
       "G"
+    ]
+  },
+  {
+    "id": "npb-2026-0906-04-e-f",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "樂天 VS 日本火腿",
+    "matchup": "樂天 VS 日本火腿",
+    "startTime": "2026-09-06T16:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "樂天",
+      "日本火腿",
+      "E",
+      "F"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "樂天",
+      "日本火腿",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": "npb-2026-0906-05-b-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "歐力士 VS 羅德",
+    "matchup": "歐力士 VS 羅德",
+    "startTime": "2026-09-06T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "歐力士",
+      "羅德",
+      "B",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "歐力士",
+      "羅德",
+      "B",
+      "M"
+    ]
+  },
+  {
+    "id": "npb-2026-0906-06-h-l",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "軟銀 VS 西武",
+    "matchup": "軟銀 VS 西武",
+    "startTime": "2026-09-06T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "軟銀",
+      "西武",
+      "H",
+      "L"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "軟銀",
+      "西武",
+      "H",
+      "L"
     ]
   },
   {
@@ -9320,6 +8840,32 @@
     ]
   },
   {
+    "id": "npb-2026-0912-04-l-f",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 日本火腿",
+    "matchup": "西武 VS 日本火腿",
+    "startTime": "2026-09-12T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "日本火腿",
+      "L",
+      "F"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "日本火腿",
+      "L",
+      "F"
+    ]
+  },
+  {
     "id": "npb-2026-0912-05-b-e",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -9369,84 +8915,6 @@
       "羅德",
       "H",
       "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0912-04-l-f",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 日本火腿",
-    "matchup": "西武 VS 日本火腿",
-    "startTime": "2026-09-12T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "日本火腿",
-      "L",
-      "F"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "日本火腿",
-      "L",
-      "F"
-    ]
-  },
-  {
-    "id": "npb-2026-0913-05-h-m",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀 VS 羅德",
-    "matchup": "軟銀 VS 羅德",
-    "startTime": "2026-09-13T13:30:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "軟銀",
-      "羅德",
-      "H",
-      "M"
-    ]
-  },
-  {
-    "id": "npb-2026-0913-04-l-f",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "西武 VS 日本火腿",
-    "matchup": "西武 VS 日本火腿",
-    "startTime": "2026-09-13T17:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "西武",
-      "日本火腿",
-      "L",
-      "F"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "西武",
-      "日本火腿",
-      "L",
-      "F"
     ]
   },
   {
@@ -9525,6 +8993,58 @@
       "中日龍",
       "T",
       "D"
+    ]
+  },
+  {
+    "id": "npb-2026-0913-04-l-f",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "西武 VS 日本火腿",
+    "matchup": "西武 VS 日本火腿",
+    "startTime": "2026-09-13T17:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "西武",
+      "日本火腿",
+      "L",
+      "F"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "西武",
+      "日本火腿",
+      "L",
+      "F"
+    ]
+  },
+  {
+    "id": "npb-2026-0913-05-h-m",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "軟銀 VS 羅德",
+    "matchup": "軟銀 VS 羅德",
+    "startTime": "2026-09-13T13:30:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "軟銀",
+      "羅德",
+      "H",
+      "M"
     ]
   },
   {
@@ -9788,58 +9308,6 @@
     ]
   },
   {
-    "id": "npb-2026-0918-04-f-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 歐力士",
-    "matchup": "日本火腿 VS 歐力士",
-    "startTime": "2026-09-18T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "歐力士",
-      "F",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "歐力士",
-      "F",
-      "B"
-    ]
-  },
-  {
-    "id": "npb-2026-0918-05-e-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天 VS 軟銀",
-    "matchup": "樂天 VS 軟銀",
-    "startTime": "2026-09-18T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
-    ]
-  },
-  {
     "id": "npb-2026-0918-01-g-d",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -9918,6 +9386,58 @@
     ]
   },
   {
+    "id": "npb-2026-0918-04-f-b",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 歐力士",
+    "matchup": "日本火腿 VS 歐力士",
+    "startTime": "2026-09-18T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "歐力士",
+      "F",
+      "B"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "歐力士",
+      "F",
+      "B"
+    ]
+  },
+  {
+    "id": "npb-2026-0918-05-e-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "樂天 VS 軟銀",
+    "matchup": "樂天 VS 軟銀",
+    "startTime": "2026-09-18T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0918-06-m-l",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -9967,58 +9487,6 @@
       "中日龍",
       "G",
       "D"
-    ]
-  },
-  {
-    "id": "npb-2026-0919-04-f-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 歐力士",
-    "matchup": "日本火腿 VS 歐力士",
-    "startTime": "2026-09-19T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "歐力士",
-      "F",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "歐力士",
-      "F",
-      "B"
-    ]
-  },
-  {
-    "id": "npb-2026-0919-05-e-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天 VS 軟銀",
-    "matchup": "樂天 VS 軟銀",
-    "startTime": "2026-09-19T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
     ]
   },
   {
@@ -10074,6 +9542,58 @@
     ]
   },
   {
+    "id": "npb-2026-0919-04-f-b",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 歐力士",
+    "matchup": "日本火腿 VS 歐力士",
+    "startTime": "2026-09-19T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "歐力士",
+      "F",
+      "B"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "歐力士",
+      "F",
+      "B"
+    ]
+  },
+  {
+    "id": "npb-2026-0919-05-e-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "樂天 VS 軟銀",
+    "matchup": "樂天 VS 軟銀",
+    "startTime": "2026-09-19T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0919-06-m-l",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -10123,58 +9643,6 @@
       "養樂多燕子",
       "G",
       "S"
-    ]
-  },
-  {
-    "id": "npb-2026-0920-04-f-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 歐力士",
-    "matchup": "日本火腿 VS 歐力士",
-    "startTime": "2026-09-20T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "歐力士",
-      "F",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "歐力士",
-      "F",
-      "B"
-    ]
-  },
-  {
-    "id": "npb-2026-0920-05-e-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天 VS 軟銀",
-    "matchup": "樂天 VS 軟銀",
-    "startTime": "2026-09-20T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
     ]
   },
   {
@@ -10230,6 +9698,58 @@
     ]
   },
   {
+    "id": "npb-2026-0920-04-f-b",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 歐力士",
+    "matchup": "日本火腿 VS 歐力士",
+    "startTime": "2026-09-20T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "歐力士",
+      "F",
+      "B"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "歐力士",
+      "F",
+      "B"
+    ]
+  },
+  {
+    "id": "npb-2026-0920-05-e-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "樂天 VS 軟銀",
+    "matchup": "樂天 VS 軟銀",
+    "startTime": "2026-09-20T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0920-06-m-l",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -10253,32 +9773,6 @@
       "西武",
       "M",
       "L"
-    ]
-  },
-  {
-    "id": "npb-2026-0921-04-e-h",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "樂天 VS 軟銀",
-    "matchup": "樂天 VS 軟銀",
-    "startTime": "2026-09-21T13:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "樂天",
-      "軟銀",
-      "E",
-      "H"
     ]
   },
   {
@@ -10360,6 +9854,32 @@
     ]
   },
   {
+    "id": "npb-2026-0921-04-e-h",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "樂天 VS 軟銀",
+    "matchup": "樂天 VS 軟銀",
+    "startTime": "2026-09-21T13:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "樂天",
+      "軟銀",
+      "E",
+      "H"
+    ]
+  },
+  {
     "id": "npb-2026-0921-05-m-l",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -10383,32 +9903,6 @@
       "西武",
       "M",
       "L"
-    ]
-  },
-  {
-    "id": "npb-2026-0922-03-c-g",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "廣島鯉魚 VS 讀賣巨人",
-    "matchup": "廣島鯉魚 VS 讀賣巨人",
-    "startTime": "2026-09-22T15:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "廣島鯉魚",
-      "讀賣巨人",
-      "C",
-      "G"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "廣島鯉魚",
-      "讀賣巨人",
-      "C",
-      "G"
     ]
   },
   {
@@ -10461,6 +9955,32 @@
       "中日龍",
       "DB",
       "D"
+    ]
+  },
+  {
+    "id": "npb-2026-0922-03-c-g",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "廣島鯉魚 VS 讀賣巨人",
+    "matchup": "廣島鯉魚 VS 讀賣巨人",
+    "startTime": "2026-09-22T15:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "廣島鯉魚",
+      "讀賣巨人",
+      "C",
+      "G"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "廣島鯉魚",
+      "讀賣巨人",
+      "C",
+      "G"
     ]
   },
   {
@@ -10568,29 +10088,29 @@
     ]
   },
   {
-    "id": "npb-2026-0923-06-h-l",
+    "id": "npb-2026-0923-02-db-d",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "軟銀 VS 西武",
-    "matchup": "軟銀 VS 西武",
-    "startTime": "2026-09-23T14:00:00+09:00",
+    "title": "橫濱DeNA VS 中日龍",
+    "matchup": "橫濱DeNA VS 中日龍",
+    "startTime": "2026-09-23T18:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "軟銀",
-      "西武",
-      "H",
-      "L"
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "軟銀",
-      "西武",
-      "H",
-      "L"
+      "橫濱DeNA",
+      "中日龍",
+      "DB",
+      "D"
     ]
   },
   {
@@ -10620,6 +10140,32 @@
     ]
   },
   {
+    "id": "npb-2026-0923-04-f-e",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "日本火腿 VS 樂天",
+    "matchup": "日本火腿 VS 樂天",
+    "startTime": "2026-09-23T18:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "日本火腿",
+      "樂天",
+      "F",
+      "E"
+    ]
+  },
+  {
     "id": "npb-2026-0923-05-m-b",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -10646,55 +10192,29 @@
     ]
   },
   {
-    "id": "npb-2026-0923-02-db-d",
+    "id": "npb-2026-0923-06-h-l",
     "leagueId": "npb",
     "leagueName": "NPB",
     "sport": "baseball",
-    "title": "橫濱DeNA VS 中日龍",
-    "matchup": "橫濱DeNA VS 中日龍",
-    "startTime": "2026-09-23T18:00:00+09:00",
+    "title": "軟銀 VS 西武",
+    "matchup": "軟銀 VS 西武",
+    "startTime": "2026-09-23T14:00:00+09:00",
     "location": "TBD",
     "city": "日本",
     "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
     "participants": [
-      "橫濱DeNA",
-      "中日龍",
-      "DB",
-      "D"
+      "軟銀",
+      "西武",
+      "H",
+      "L"
     ],
     "tags": [
       "NPB",
       "日本職棒",
-      "橫濱DeNA",
-      "中日龍",
-      "DB",
-      "D"
-    ]
-  },
-  {
-    "id": "npb-2026-0923-04-f-e",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "日本火腿 VS 樂天",
-    "matchup": "日本火腿 VS 樂天",
-    "startTime": "2026-09-23T18:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "日本火腿",
-      "樂天",
-      "F",
-      "E"
+      "軟銀",
+      "西武",
+      "H",
+      "L"
     ]
   },
   {
@@ -10854,32 +10374,6 @@
     ]
   },
   {
-    "id": "npb-2026-0927-03-h-b",
-    "leagueId": "npb",
-    "leagueName": "NPB",
-    "sport": "baseball",
-    "title": "軟銀 VS 歐力士",
-    "matchup": "軟銀 VS 歐力士",
-    "startTime": "2026-09-27T14:00:00+09:00",
-    "location": "TBD",
-    "city": "日本",
-    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
-    "participants": [
-      "軟銀",
-      "歐力士",
-      "H",
-      "B"
-    ],
-    "tags": [
-      "NPB",
-      "日本職棒",
-      "軟銀",
-      "歐力士",
-      "H",
-      "B"
-    ]
-  },
-  {
     "id": "npb-2026-0927-01-l-e",
     "leagueId": "npb",
     "leagueName": "NPB",
@@ -10929,6 +10423,32 @@
       "日本火腿",
       "M",
       "F"
+    ]
+  },
+  {
+    "id": "npb-2026-0927-03-h-b",
+    "leagueId": "npb",
+    "leagueName": "NPB",
+    "sport": "baseball",
+    "title": "軟銀 VS 歐力士",
+    "matchup": "軟銀 VS 歐力士",
+    "startTime": "2026-09-27T14:00:00+09:00",
+    "location": "TBD",
+    "city": "日本",
+    "officialUrl": "https://npb.jp/bis/eng/2026/calendar/",
+    "participants": [
+      "軟銀",
+      "歐力士",
+      "H",
+      "B"
+    ],
+    "tags": [
+      "NPB",
+      "日本職棒",
+      "軟銀",
+      "歐力士",
+      "H",
+      "B"
     ]
   },
   {
