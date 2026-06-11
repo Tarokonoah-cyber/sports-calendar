@@ -19,6 +19,7 @@ export const LEAGUES: LeagueConfig[] = [
   { id: "npb", name: "NPB", shortName: "NPB", sport: "baseball", tone: "#52525b" },
   { id: "cpbl", name: "CPBL", shortName: "CPBL", sport: "baseball", tone: "#18181b" },
   { id: "f1", name: "Formula 1", shortName: "F1", sport: "motorsport", tone: "#111111" },
+  { id: "diamondleague", name: "鑽石聯賽", shortName: "DL", sport: "athletics", tone: "#2563eb" },
   { id: "giro", name: "Giro d'Italia", shortName: "Giro", sport: "cycling", tone: "#3f3f46" },
   { id: "tourdefrance", name: "Tour de France", shortName: "TDF", sport: "cycling", tone: "#52525b" },
   { id: "vuelta", name: "Vuelta a España", shortName: "Vuelta", sport: "cycling", tone: "#18181b" },
@@ -45,4 +46,5 @@ export const SPORT_LABELS = {
   baseball: "棒球",
   motorsport: "賽車",
   cycling: "單車",
+  athletics: "田徑",
 } as const;

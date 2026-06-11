@@ -1,4 +1,4 @@
-export type SportCategory = "football" | "basketball" | "baseball" | "motorsport" | "cycling";
+export type SportCategory = "football" | "basketball" | "baseball" | "motorsport" | "cycling" | "athletics";
 
 export type LeagueId =
   | "worldcup-group-a"
@@ -18,6 +18,7 @@ export type LeagueId =
   | "npb"
   | "cpbl"
   | "f1"
+  | "diamondleague"
   | "giro"
   | "tourdefrance"
   | "vuelta"
