@@ -1,65 +1,99 @@
 #!/usr/bin/env node
 /**
- * Generate data/mlb.json from the official MLB Stats API.
- * Yahoo Taiwan is used as the zh-TW naming reference for team labels; the game
- * schedule itself is generated from MLB's official schedule source so the full
- * season can be fetched without hand-copying 30 team pages.
+ * Generate data/mlb.json from MLB's public Stats API.
  *
- * npm run update:mlb
+ * Usage:
+ *   node scripts/update-mlb-from-official.mjs
+ *
+ * Optional:
+ *   MLB_START_DATE=2026-03-25 MLB_END_DATE=2026-09-27 node scripts/update-mlb-from-official.mjs
+ *
+ * This script fetches month-by-month to avoid oversized API responses.
  */
 
 import fs from "node:fs/promises";
 import path from "node:path";
 
 const START_DATE = process.env.MLB_START_DATE || "2026-03-25";
-const END_DATE = process.env.MLB_END_DATE || "2026-10-04";
-const API_URL = `https://statsapi.mlb.com/api/v1/schedule?sportId=1&gameTypes=R&hydrate=team,venue&startDate=${START_DATE}&endDate=${END_DATE}`;
+const END_DATE = process.env.MLB_END_DATE || "2026-09-27";
+const EXPECTED_REGULAR_SEASON_GAMES = 2430;
 
 const TEAMS = {
-  ARI: { zh: "響尾蛇", name: "Arizona Diamondbacks", yahooSlug: "響尾蛇" },
-  ATH: { zh: "運動家", name: "Athletics", yahooSlug: "運動家" },
-  ATL: { zh: "勇士", name: "Atlanta Braves", yahooSlug: "勇士" },
-  BAL: { zh: "金鶯", name: "Baltimore Orioles", yahooSlug: "金鶯" },
-  BOS: { zh: "紅襪", name: "Boston Red Sox", yahooSlug: "紅襪" },
-  CHC: { zh: "小熊", name: "Chicago Cubs", yahooSlug: "小熊" },
-  CWS: { zh: "白襪", name: "Chicago White Sox", yahooSlug: "白襪" },
-  CIN: { zh: "紅人", name: "Cincinnati Reds", yahooSlug: "紅人" },
-  CLE: { zh: "守護者", name: "Cleveland Guardians", yahooSlug: "守護者" },
-  COL: { zh: "落磯", name: "Colorado Rockies", yahooSlug: "落磯" },
-  DET: { zh: "老虎", name: "Detroit Tigers", yahooSlug: "老虎" },
-  HOU: { zh: "太空人", name: "Houston Astros", yahooSlug: "太空人" },
-  KC: { zh: "皇家", name: "Kansas City Royals", yahooSlug: "皇家" },
-  LAA: { zh: "天使", name: "Los Angeles Angels", yahooSlug: "天使" },
-  LAD: { zh: "道奇", name: "Los Angeles Dodgers", yahooSlug: "道奇" },
-  MIA: { zh: "馬林魚", name: "Miami Marlins", yahooSlug: "馬林魚" },
-  MIL: { zh: "釀酒人", name: "Milwaukee Brewers", yahooSlug: "釀酒人" },
-  MIN: { zh: "雙城", name: "Minnesota Twins", yahooSlug: "雙城" },
-  NYM: { zh: "大都會", name: "New York Mets", yahooSlug: "大都會" },
-  NYY: { zh: "洋基", name: "New York Yankees", yahooSlug: "洋基" },
-  PHI: { zh: "費城人", name: "Philadelphia Phillies", yahooSlug: "費城人" },
-  PIT: { zh: "海盜", name: "Pittsburgh Pirates", yahooSlug: "海盜" },
-  SD: { zh: "教士", name: "San Diego Padres", yahooSlug: "教士" },
-  SEA: { zh: "水手", name: "Seattle Mariners", yahooSlug: "水手" },
-  SF: { zh: "巨人", name: "San Francisco Giants", yahooSlug: "巨人" },
-  STL: { zh: "紅雀", name: "St. Louis Cardinals", yahooSlug: "紅雀" },
-  TB: { zh: "光芒", name: "Tampa Bay Rays", yahooSlug: "光芒" },
-  TEX: { zh: "遊騎兵", name: "Texas Rangers", yahooSlug: "遊騎兵" },
-  TOR: { zh: "藍鳥", name: "Toronto Blue Jays", yahooSlug: "藍鳥" },
-  WSH: { zh: "國民", name: "Washington Nationals", yahooSlug: "國民" },
+  108: { abbr: "LAA", zh: "天使", name: "Los Angeles Angels" },
+  109: { abbr: "ARI", zh: "響尾蛇", name: "Arizona Diamondbacks" },
+  110: { abbr: "BAL", zh: "金鶯", name: "Baltimore Orioles" },
+  111: { abbr: "BOS", zh: "紅襪", name: "Boston Red Sox" },
+  112: { abbr: "CHC", zh: "小熊", name: "Chicago Cubs" },
+  113: { abbr: "CIN", zh: "紅人", name: "Cincinnati Reds" },
+  114: { abbr: "CLE", zh: "守護者", name: "Cleveland Guardians" },
+  115: { abbr: "COL", zh: "落磯", name: "Colorado Rockies" },
+  116: { abbr: "DET", zh: "老虎", name: "Detroit Tigers" },
+  117: { abbr: "HOU", zh: "太空人", name: "Houston Astros" },
+  118: { abbr: "KC", zh: "皇家", name: "Kansas City Royals" },
+  119: { abbr: "LAD", zh: "道奇", name: "Los Angeles Dodgers" },
+  120: { abbr: "WSH", zh: "國民", name: "Washington Nationals" },
+  121: { abbr: "NYM", zh: "大都會", name: "New York Mets" },
+  133: { abbr: "ATH", zh: "運動家", name: "Athletics" },
+  134: { abbr: "PIT", zh: "海盜", name: "Pittsburgh Pirates" },
+  135: { abbr: "SD", zh: "教士", name: "San Diego Padres" },
+  136: { abbr: "SEA", zh: "水手", name: "Seattle Mariners" },
+  137: { abbr: "SF", zh: "巨人", name: "San Francisco Giants" },
+  138: { abbr: "STL", zh: "紅雀", name: "St. Louis Cardinals" },
+  139: { abbr: "TB", zh: "光芒", name: "Tampa Bay Rays" },
+  140: { abbr: "TEX", zh: "遊騎兵", name: "Texas Rangers" },
+  141: { abbr: "TOR", zh: "藍鳥", name: "Toronto Blue Jays" },
+  142: { abbr: "MIN", zh: "雙城", name: "Minnesota Twins" },
+  143: { abbr: "PHI", zh: "費城人", name: "Philadelphia Phillies" },
+  144: { abbr: "ATL", zh: "勇士", name: "Atlanta Braves" },
+  145: { abbr: "CWS", zh: "白襪", name: "Chicago White Sox" },
+  146: { abbr: "MIA", zh: "馬林魚", name: "Miami Marlins" },
+  147: { abbr: "NYY", zh: "洋基", name: "New York Yankees" },
+  158: { abbr: "MIL", zh: "釀酒人", name: "Milwaukee Brewers" }
 };
 
-function teamInfo(team) {
-  const abbrev = team?.abbreviation || team?.teamName || team?.name;
-  const mapped = TEAMS[abbrev] || { zh: team?.teamName || abbrev, name: team?.name || abbrev, yahooSlug: team?.teamName || abbrev };
-  return { abbrev, ...mapped };
+function formatDate(date) {
+  return date.toISOString().slice(0, 10);
+}
+
+function addDays(date, days) {
+  const next = new Date(date);
+  next.setUTCDate(next.getUTCDate() + days);
+  return next;
+}
+
+function minDate(a, b) {
+  return a <= b ? a : b;
+}
+
+function windows(start, end, daysPerWindow = 21) {
+  const result = [];
+  let cursor = new Date(`${start}T00:00:00Z`);
+  const finalDate = new Date(`${end}T00:00:00Z`);
+  while (cursor <= finalDate) {
+    const windowEnd = minDate(addDays(cursor, daysPerWindow - 1), finalDate);
+    result.push([formatDate(cursor), formatDate(windowEnd)]);
+    cursor = addDays(windowEnd, 1);
+  }
+  return result;
+}
+
+function lookupTeam(team) {
+  const id = team?.id;
+  const mapped = TEAMS[id];
+  if (mapped) return mapped;
+  const fallbackName = team?.name || team?.teamName || String(id || "Unknown");
+  return { abbr: team?.abbreviation || fallbackName, zh: fallbackName, name: fallbackName };
 }
 
 function gameToEvent(game) {
-  const away = teamInfo(game.teams.away.team);
-  const home = teamInfo(game.teams.home.team);
-  const venue = game.venue?.name || "";
-  const status = game.status?.detailedState || "Scheduled";
-  const scoreText = game.teams.away.score != null && game.teams.home.score != null ? ` ${game.teams.away.score}-${game.teams.home.score}` : "";
+  const away = lookupTeam(game.teams.away.team);
+  const home = lookupTeam(game.teams.home.team);
+  const awayScore = game.teams.away.score;
+  const homeScore = game.teams.home.score;
+  const hasScore = awayScore !== undefined && homeScore !== undefined;
+  const scoreText = hasScore ? ` ${awayScore}-${homeScore}` : "";
+  const date = game.officialDate || game.gameDate?.slice(0, 10);
+
   return {
     id: `mlb-2026-${game.gamePk}`,
     leagueId: "mlb",
@@ -69,25 +103,54 @@ function gameToEvent(game) {
     matchup: `${away.zh} @ ${home.zh}`,
     startTime: game.gameDate,
     endTime: undefined,
-    location: venue,
-    city: venue,
+    location: game.venue?.name || "",
+    city: game.venue?.name || "",
     officialUrl: `https://www.mlb.com/gameday/${game.gamePk}`,
-    participants: [away.zh, home.zh, away.name, home.name, away.abbrev, home.abbrev],
-    tags: ["MLB", "美國職棒", status, away.zh, home.zh, away.abbrev, home.abbrev],
+    participants: [away.zh, home.zh, away.name, home.name, away.abbr, home.abbr],
+    tags: ["MLB", "美國職棒", "例行賽", date, away.zh, home.zh, away.abbr, home.abbr]
   };
 }
 
+async function fetchSchedule(startDate, endDate) {
+  const url = new URL("https://statsapi.mlb.com/api/v1/schedule");
+  url.searchParams.set("sportId", "1");
+  url.searchParams.set("gameTypes", "R");
+  url.searchParams.set("hydrate", "team,venue");
+  url.searchParams.set("startDate", startDate);
+  url.searchParams.set("endDate", endDate);
+
+  const response = await fetch(url, {
+    headers: { "user-agent": "sports-calendar-updater/1.0" }
+  });
+  if (!response.ok) throw new Error(`MLB API ${response.status} for ${startDate} to ${endDate}`);
+  const json = await response.json();
+  return json.dates.flatMap((day) => day.games || []);
+}
+
 async function main() {
-  const res = await fetch(API_URL, { headers: { "user-agent": "sports-calendar-updater/1.0" } });
-  if (!res.ok) throw new Error(`MLB schedule source returned ${res.status}`);
-  const payload = await res.json();
-  const events = payload.dates.flatMap((date) => date.games.map(gameToEvent));
-  events.sort((a, b) => a.startTime.localeCompare(b.startTime));
+  const allGamesByPk = new Map();
+
+  for (const [start, end] of windows(START_DATE, END_DATE)) {
+    const games = await fetchSchedule(start, end);
+    console.log(`${start} to ${end}: ${games.length} games`);
+    for (const game of games) {
+      if (game.gameType === "R") allGamesByPk.set(game.gamePk, game);
+    }
+  }
+
+  const events = [...allGamesByPk.values()]
+    .map(gameToEvent)
+    .sort((a, b) => a.startTime.localeCompare(b.startTime));
+
   await fs.mkdir(path.join(process.cwd(), "data"), { recursive: true });
   await fs.writeFile(path.join(process.cwd(), "data", "mlb.json"), JSON.stringify(events, null, 2), "utf8");
   await fs.writeFile(path.join(process.cwd(), "data", "mlb-teams.json"), JSON.stringify(TEAMS, null, 2), "utf8");
-  console.log(`Generated data/mlb.json with ${events.length} MLB games from ${START_DATE} to ${END_DATE}.`);
-  console.log("Team zh-TW labels are aligned with Yahoo Taiwan MLB team names where applicable.");
+
+  console.log(`Generated data/mlb.json with ${events.length} MLB regular-season games.`);
+  console.log(`Date range: ${START_DATE} to ${END_DATE}`);
+  if (START_DATE === "2026-03-25" && END_DATE === "2026-09-27" && events.length !== EXPECTED_REGULAR_SEASON_GAMES) {
+    console.warn(`Warning: expected about ${EXPECTED_REGULAR_SEASON_GAMES} regular-season games, got ${events.length}. Check MLB source/date range.`);
+  }
 }
 
 main().catch((error) => {
